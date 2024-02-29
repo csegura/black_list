@@ -25,11 +25,7 @@ jobs:
         python download_dns.py
 
     - name: Upload Artifacts
-<<<<<<< HEAD
       uses: actions/upload-artifact@v4  
-=======
-      uses: actions/upload-artifact@v4
->>>>>>> eb8abb90faf8ea2d7c202305d6840780f0e570de
       with:
         name: DNS-Wild-Files
         path: |
