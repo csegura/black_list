@@ -23,3 +23,11 @@ jobs:
       run: |
         pip install -r requirements.txt
         python download_dns.py
+
+    - name: Upload Artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: DNS-Wild-Files
+        path: |
+          dns_wild_1.dns
+          dns_wild_2.dns
