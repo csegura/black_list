@@ -24,18 +24,7 @@ jobs:
         pip install -r requirements.txt
         python download_dns.py
 
-    - name: Upload Artifacts
-      uses: actions/upload-artifact@v4  
+    - name: Commit Changes
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        name: DNS-Wild-Files
-        path: |
-          dns_wild_1.dns
-          dns_wild_2.dns
-
-    - name: Commit changes
-      uses: EndBug/add-and-commit@v9
-      with:
-        author_name: romheat
-        author_email: romheat@gmail.com
-        message: 'updated'
-        add: '*.dns --force'
+        commit_message: Updated DNS Data
