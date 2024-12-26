@@ -1,9 +1,9 @@
-# Version: 202412250006
+# Version: 202412260006
 # Title: oisd big
 # Description: Block. Don't break.
 # Syntax: Domains (wildcards) without *.
-# Entries: 138107
-# Last modified: 2024-12-25T00:06:54+0000
+# Entries: 137845
+# Last modified: 2024-12-26T00:06:55+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -29,6 +29,7 @@
 0.0l.cryptonight.net
 0.0mx03.cryptonight.net
 0.101tubeporn.com
+0.feixue316p.cloudns.biz
 0.feixue317p.cloudns.biz
 0.feixue318p.cloudns.biz
 0.myikas.com
@@ -49,13 +50,11 @@
 0000000000c0.x9xcax2a.workers.dev
 000000000a0uutlook.weebly.com
 00000000883838383992929292222.ratingandreviews.in
-0000000095.godaddysites.com
 00000002.c1.biz
 0000000o.weebly.com
 000000login.weebly.com
 00000808000800000.s3.us-east-005.backblazeb2.com
 00001-888887766.weebly.com
-00001.godaddysites.com
 000012223.weebly.com
 000030.godaddysites.com
 000066.godaddysites.com
@@ -154,7 +153,6 @@
 002v.pages.dev
 002y.github.io
 00324il.moonfruit.com
-003296598349876380384903789534533423.wheninmilantours.com
 003429a9-b7ed-4689-89f.internalaccess.info
 003455-1318019027.cos.eu-frankfurt.myqcloud.com
 003467.cc
@@ -197,6 +195,7 @@
 008.free-counters.co.uk
 008008.cc
 00808.vip
+00828.liye19960713.workers.dev
 008491133.cloudns.nz
 0086market.com
 0088.top
@@ -225,10 +224,12 @@
 00ebjdbagyqwt.club
 00ei0aol023sba03esecure0i0verify0forg.netlify.app
 00f28a5a21c09720affa474c7b4f134c-dot-gle9392420309493993.rj.r.appspot.com
+00f8c4bb25.com
 00ficee435.weebly.com
 00fun.com
 00game.net
 00go.com
+00griel-bdvenline.pages.dev
 00hidemyprivacy.ws
 00hq.com
 00instagramsecure.blogspot.nl
@@ -530,7 +531,6 @@
 03usmtbway.ddns.net
 03verifymtb.ddns.net
 03vhot.codesandbox.io
-03view00yah00mai189att0ach9ment0ius0.github.io
 03vv4pnot.duckdns.org
 03zplf.markforaker.com
 04-f-bmf.com
@@ -702,6 +702,7 @@
 0542cd0873.94a1b78c82.com
 05436774.weebly.com
 05456et3454svdf04b8fd5ab27b1be5e7b51d9d8146566.weeblysite.com
+054cb3b003.1699bc140d.com
 05513659.com
 0552af2.wcomhost.com
 055615.cc
@@ -763,6 +764,7 @@
 05f6d619f2ec8b83a72df963121fcc1b-dot-gle9392420309493993.rj.r.appspot.com
 05f9ada.wcomhost.com
 05f9ae0.wcomhost.com
+05fa754f24.com
 05fc725q.cn
 05ff107.wcomhost.com
 05j1m.mjt.lu
@@ -830,7 +832,6 @@
 06a21eff24.com
 06absence01.yolasite.com
 06ac1c2f55d2f5e45de07cd8f199a561-dot-gle9392420309493993.rj.r.appspot.com
-06ayushyadav.github.io
 06b33a3.wcomhost.com
 06b8636b46d297d469026e8032ec0ec2-dot-gle9392420309493993.rj.r.appspot.com
 06bc828.wcomhost.com
@@ -840,6 +841,7 @@
 06c41c78-0264-4c89-96f1-126df5b39cd5-00-1qq4eh6du2a8d.worf.replit.dev
 06c73e7.wcomhost.com
 06cc9e6.wcomhost.com
+06cffaae87.com
 06e19c8.wcomhost.com
 06e6f4d3bb4140516.temporary.link
 06f5267.wcomhost.com
@@ -914,6 +916,7 @@
 07bux.net
 07c0eaaa6c1b31736fd825165b8933ba-dot-gle9392420309493993.rj.r.appspot.com
 07cpanel.myvnc.com
+07d0bc4a48.com
 07d4d907803091955.temporary.link
 07dd96.htmlcomponentservice.com
 07de571526.e04f630ca8.com
@@ -986,6 +989,7 @@
 08c8caa7-2bce-4141-90d3-6da0a6b6bab6.htmlcomponentservice.com
 08c9a311.c528794084dd4ab10266a9a7.workers.dev
 08d4707c13796cfc0cfcc6532fe1fd093d90684eeef366f379e9efff04.pages.dev
+08d9578fe3.29a7397be5.com
 08deabril2023-sec-uri-ty.zya.me
 08e8e5a14a6a22656f468a08b2ce1aa38014c849cb0ae9626857d3.71993e6f8e87e5d4c6b1219e0503a95b17c21f.08e8e5a14a6a22656f468a08b2ce1aa38014c849cb0ae9626857d3.dvsdfsdfsdf.duckdns.org
 08ea080b.ngrok.io
@@ -1105,7 +1109,6 @@
 0a70f8b5e29482619.temporary.link
 0a7430a0e43d.ngrok.io
 0a7yah040sign00in29i0secure00govsgu2v.netlify.app
-0a87a641790a.godaddysites.com
 0a8d87mlbcac.top
 0a92d02b-20d7-4c9f-ac41-9ff0844350ab.usrfiles.com
 0aa85dd0bee7b921d4f854a21ca6.fjejx8o4-4yfwcf5-ncjnv2-eu4lgox-a4spje.usrfiles.com
@@ -1319,6 +1322,7 @@
 0ff2436.wcomhost.com
 0ff4e4948a0584972b865cfc1f8f5e08-dot-spow3039.df.r.appspot.com
 0ff50630c1e0e2f056ed4c22bde1afb.pages.dev
+0ffaf504b2.com
 0fffice.myportfolio.com
 0ffic-365.duckdns.org
 0ffic365.bgc-ar4.pages.dev
@@ -1539,7 +1543,6 @@
 0u6jo2.codesandbox.io
 0u7l-0k0fice.netlify.app
 0u9bkoj.blogspot.com
-0u9bkoj0i0.blogspot.co.ke
 0u9bkoj0i0.blogspot.com
 0uk.net
 0uliv3.pages.dev
@@ -1855,10 +1858,8 @@
 100percentcommissionforrealtors.com
 100pfacademy.com
 100pour100culture.com
-100rabh098.github.io
 100rifu.com
 100rubpal.github.io
-100scredeemgift.github.io
 100sexlinks.com
 100te.com
 100tipsadayh3alth.com
@@ -1932,6 +1933,7 @@
 103.sub-70-222-213.myvzw.com
 103.sub-75-236-210.myvzw.com
 103.westernbuilds.co.za
+1030.6k0ip-o.workers.dev
 1030.go2cloud.org
 103092804.com
 103168d8.sibforms.com
@@ -1981,7 +1983,6 @@
 10712824.qqc.co
 1073.co.jp
 10744.cc
-107473.cc
 107639-bt-107639.weeblysite.com
 107670.cc
 107686-webmail-bell-index-csi.weebly.com
@@ -2513,6 +2514,7 @@
 12457833698.blogspot.li
 124wi.trk.elasticemail.com
 125.sub-75-196-236.myvzw.com
+12524989.ixcb.sa.com
 125478526j.weebly.com
 1254oargg.weebly.com
 1259e035ff.01f648fd79.com
@@ -2700,6 +2702,7 @@
 13728359144.uwfs.xyz
 1372837978.uwfs.xyz
 13728395231.uwfs.xyz
+13741674c3.198636861c.com
 13777815.virtualagro.ro
 13798527251.com
 137kfj65k.de
@@ -2752,7 +2755,6 @@
 13suntrust4.7m.pl
 13theee.pages.dev
 13yxw.com
-14-ranjithkumar.github.io
 14.197.forpsi.net
 14.29ec54.tvnetwork.hu
 14.chehov.edugov.kz
@@ -3327,6 +3329,7 @@
 17thstreet.co
 17thyu.pages.dev
 17ty01.com
+17vip04.com
 17vip07.com
 17vip10.com
 17vip13.com
@@ -3501,10 +3504,12 @@
 190.sub-75-218-17.myvzw.com
 19001445.lgtbd.com
 190236cb.ithemeshosting.com.php73-40.lan3-1.websitetestlink.com
+190237bdf8.08a62d358c.com
 1904.z13.web.core.windows.net
 1904b599-1712-416a-b927-a1a7fda6179d.usrfiles.com
 190500.xxdazbvqvqyzgkvu.sepa-00980-force-drop.oa.r.appspot.com
 19093.jp
+190b1f9880.com
 191-74.pptp.artx.ru
 191.red-88-30-17.staticip.rima-tde.net
 191.sub-75-218-134.myvzw.com
@@ -3745,6 +3750,7 @@
 1d0ec98437.com
 1d1a.com
 1d1d60deb1291.dksydney.com.au
+1d36243653.ef1dd1776c.com
 1d44313d-6217-49c9-9d29-2bc1f5ea9714.usrfiles.com
 1d5254b410ed62523d8c9883ecee0f16.s3-eu-west-1.amazonaws.com
 1d56c10bb6c8a744dd71dfb0dc0bc41e84ec7cb615d47772cb42617f9f.pages.dev
@@ -3767,6 +3773,7 @@
 1dc651d70c.2d5c3a63b2.com
 1dc9d0f5-a06e-4d08-9c11-300216cb48bf.usrfiles.com
 1dcd850fa2.7fcf7b752f.com
+1dcf7e1dbb.56a76cb7c7.com
 1de2945d.sibforms.com
 1de3-186-30-34-183.ngrok.io
 1de9b613-f5ea-469f-bbea-e129fedcca0d.usrfiles.com
@@ -3870,7 +3877,7 @@
 1fd92n6t8.de
 1fd9666a.sibforms.com
 1fdc0a0f.ngrok.io
-1fgfhth5g4.blogspot.com
+1ff819101c.6e56e159be.com
 1fgfhth5g4.blogspot.md
 1fhhrb453djieo2oss.jp-osa-1.linodeobjects.com
 1fht5hgehtk6.blogspot.be
@@ -3996,7 +4003,6 @@
 1mig.org
 1minuteworkoutbyede.com
 1mobile.com
-1mohamad2002.github.io
 1month-premium.com
 1mp.mobi
 1mpi.com
@@ -4035,7 +4041,6 @@
 1oa1io8j6.duckdns.org
 1obmen.com
 1odi7j43c.de
-1ofjuan.github.io
 1ogin-microsoftqinpbfhejkkpbeq-furdxysscvftlnjd-qfcrydbfrcbsfso.netlify.app
 1ogin100255830860956678-940056449952592169-76317777261275778609.netlify.app
 1oginkdysypsvlqcvnrbgciiywzadalq-rgmggsekevaigvtkzkssrtgcjkrqkb.netlify.app
@@ -4145,7 +4150,6 @@
 1stchoiceblinds.com
 1stchoicefinanceltd.com
 1stfreehosting.com
-1stickers1.blogspot.com
 1stinvestor-eg.mubasher.info
 1stinvestor-us.mubasher.info
 1stireland.com
@@ -4258,7 +4262,6 @@
 1z6x28.duckdns.org
 1zb4grry.duckdns.org
 1zfr3l.csb.app
-1zjyics8c.top
 1zone1.free.fr
 1zw1b0zz9.indylatinawrds.com
 2-3a2.pages.dev
@@ -4763,6 +4766,7 @@
 20240316-1.pages.dev
 20240326-73x.pages.dev
 20240330-135.pages.dev
+20240401-d4v.pages.dev
 20240420-5ty.pages.dev
 2024311-6vf.pages.dev
 2024311.pages.dev
@@ -4860,7 +4864,6 @@
 20r01a05c4.github.io
 20t5yoo880mhw1lxh8aidnyth-musgmy5595v6lye60hc17t8k.glitch.me
 20th-century-sex.com
-20tkrearcharges.blogspot.am
 20tkrearcharges.blogspot.com
 20trackdomain.com
 20tracks.com
@@ -4984,6 +4987,7 @@
 217538-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 217683740147431105.weebly.com
 2178afe3.pagestandards.pages.dev
+217eda37ff.eca8bef536.com
 218.sub-70-208-69.myvzw.com
 218.sub-75-223-61.myvzw.com
 218.sub-97-244-97.myvzw.com
@@ -4998,7 +5002,6 @@
 219.sub-70-211-147.myvzw.com
 219.sub-75-213-118.myvzw.com
 21900b4617da5556487463850d664b28-21900b4617da5556487463850.pages.dev
-2192053a29b2.godaddysites.com
 219236-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 21934237.hubspotpagebuilder.com
 219855a0b05e062cc729a846e434c7ad-dot-gle9392420309493993.rj.r.appspot.com
@@ -5095,6 +5098,7 @@
 226.red-81-47-136.staticip.rima-tde.net
 226.sub-70-212-87.myvzw.com
 2260623af05d4b11b5d9366a1fd8a99f.yatu.ws
+2260f90418.a67c5c438d.com
 2267527-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 2268.site
 22684.com
@@ -5156,6 +5160,7 @@
 2306e8d6092794386b25ab97eeff9c19-dot-gle9392420309493993.rj.r.appspot.com
 230819bryan.pages.dev
 230909.pages.dev
+230924.5107794.workers.dev
 230bd741-5ea7-4d09-8aed-64ba7982b8c3.usrfiles.com
 231.sub-70-195-233.myvzw.com
 231.sub-70-210-32.myvzw.com
@@ -5747,6 +5752,7 @@
 2736fab291f04e69b62d490c3c09361f5b82461a.fanlink.tv
 273829-coinbase.com
 274785ebb77b60e76cbf2e8686101ae9-dot-gle9392420309493993.rj.r.appspot.com
+274dc708ea.ec71a471b9.com
 27551.xc.05cg.com
 275f86c6-16f2-485c-852f-8e498683c4bf.usrfiles.com
 275oxd.postal.gameplansession.com
@@ -5785,7 +5791,6 @@
 27d8ec8a23.7737d3a561.com
 27f899a8ce3646170.temporary.link
 27fhuw.blow.harrisretreat.com
-27g56r512156eds1zv715d2mn.github.io
 27gmail.com
 27igqr8b.de
 27nd72hk5-pm6smdjri.vercel.app
@@ -5808,7 +5813,6 @@
 28237453981d0595033c23.xyz
 28239929901werb.weebly.com
 2824.carnesg.mx
-282434.cc
 28291.duckdns.org
 282946novan-84512halandon.pages.dev
 282a2a602cd5eb0a3e5c85600fcb1e79-dot-gle9392420309493993.rj.r.appspot.com
@@ -5823,7 +5827,6 @@
 2843b4bf95.com
 2844652.pc528082.web.hosting-test.net
 28446bd187d25bb6105c20dfbc3bad71-dot-gle9392420309493993.rj.r.appspot.com
-284be0d93ece.godaddysites.com
 285289.com
 2854149.im529712.web.hosting-test.net
 285437-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
@@ -5857,7 +5860,6 @@
 289922.8b.io
 289931.com
 289db41d3353.ngrok.io
-28b82a422fc5.godaddysites.com
 28b89cf1a12706873.temporary.link
 28bxg.com
 28c0dd20-add7-4fc4-bf11-4e3e68093282-00-kpdwxbq5ffre.worf.replit.dev
@@ -5906,14 +5908,12 @@
 2953ij39r.duckdns.org
 2954960.an545016.web.hosting-test.net
 2957602.yd545511.web.hosting-test.net
-295905.com
 295930422033823.graficaaoquadrado.com.br
 295940895026123-dot-wetransfer-auth-file-343.appspot.com
 295a9f642d.com
 29604-47823.bacloud.info
 2969031-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 296ceb5f-927e-4cae-b915-55e6c64e05da.usrfiles.com
-297135.cc
 297575-coinbase.com
 2975c.v.fwmrm.net
 2976229762.gypwu.com
@@ -6092,6 +6092,7 @@
 2d4c.reicrut-chat.workers.dev
 2d4e1275161077cefea700c26ef2c6a5-dot-spow3039.df.r.appspot.com
 2d4yg-wyaaa-aaaad-qcrhq-cai.raw.ic0.app
+2d5ac65613.com
 2d66y8w.duckdns.org
 2d6g0ag5l.de
 2d73.ru
@@ -6123,6 +6124,7 @@
 2e2rgcxi.square.site
 2e30f1d69a.55320fa45d.com
 2e3b16113663b8cb393f45eb80d12aa6.info
+2e4ad8cce9.d39274b315.com
 2e4b7fc71a.com
 2e4g42hg54-crimson-lab-c5a8.srraufehxkvt.workers.dev
 2e5e4544c4.com
@@ -6608,10 +6610,8 @@
 303marketplace.com
 304-inmail.auth5656.workers.dev
 3045abff-25d5-478c-8bf7-aabc6fd24b77.usrfiles.com
-304723.cc
 3049101939011093i102.hyperphp.com
 304994097064545.foodonline.com.pk
-3051prashansa.github.io
 305421ba72.com
 305c.write-zip.workers.dev
 306373.cc
@@ -6679,6 +6679,7 @@
 310051-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 310056283395515580.weebly.com
 31023.8b.io
+3103cf02ec.com
 3105.filemail.com
 3108554-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 310digital.com
@@ -6689,7 +6690,6 @@
 3115aa.top
 3115bb.com
 3115c.co
-3115cc.cc
 3115cc.com
 3115cc.top
 3115dh12.com
@@ -6837,7 +6837,6 @@
 32596c0d85.com
 32612098367121888178947372402.zenslim.ru
 326451.cc
-32652900175411plan.github.io
 3266565.filesusr.com
 3267061packcompletozamaraolivares.filesusr.com
 326pm.com
@@ -6932,7 +6931,6 @@
 333907479255748.graficaaoquadrado.com.br
 3339775143.appe.cc
 333bbb777bbb.com
-333bvk333.github.io
 333ifp3i.square.site
 333ttt.vip
 3344-kloom.square.site
@@ -7238,7 +7236,6 @@
 3630dfb18d765ea15b18dcf18131d043-dot-maintance-online-pass.ey.r.appspot.com
 3633a.com
 36353113213513535.hyperphp.com
-3636123.com
 3636sb.com
 3638de9651.7bb072c1e1.com
 363c5506.einnovator.org
@@ -7326,7 +7323,6 @@
 365666w.cc
 365666y.com
 3656752.com
-3656801.com
 3656889.com
 3656969.com
 365699.cc
@@ -7334,7 +7330,6 @@
 3656aa.com
 3656aak.cc
 3656b.cc
-3656bbb.com
 3656best.cc
 3656c.cc
 3656cc.cc
@@ -7356,7 +7351,6 @@
 3656g.vip
 3656gg.com
 3656gg.vip
-3656ggg.com
 3656hh.com
 3656hhh.com
 3656i.com
@@ -7366,12 +7360,9 @@
 3656jj.cc
 3656jj.com
 3656jj.net
-3656jjj.com
 3656k.com
-3656k2.com
 3656kvc.com
 3656l.com
-3656mm.com
 3656n.com
 3656nn.com
 3656nn.vip
@@ -7381,10 +7372,7 @@
 3656qq.com
 3656qqq.com
 3656r.com
-3656rr.com
 3656ss.com
-3656t.com
-3656tt.com
 3656ttt.com
 3656u.com
 3656uu.com
@@ -7392,7 +7380,6 @@
 3656v.net
 3656vip12.com
 3656vip7.com
-3656vvv.com
 3656win.cc
 3656ww.com
 3656www.com
@@ -7419,14 +7406,12 @@
 3659004.vip
 3659006.vip
 3659008.vip
-3659020.com
 3659022.com
 365903.vip
 3659033.com
 365906.vip
 365907.vip
 365909.vip
-36593333.com
 3659337.cc
 3659337.com
 3659337.net
@@ -7442,6 +7427,7 @@
 36593658.com
 3659444.com
 36596666.net
+3659aa.cc
 3659aaa.com
 3659b.cc
 3659b.vip
@@ -7462,7 +7448,6 @@
 3659ggg.cc
 3659h.cc
 3659hhh.cc
-3659hhh.com
 3659ii.com
 3659iii.net
 3659jj.com
@@ -7470,14 +7455,11 @@
 3659m.com
 3659mm.com
 3659mmm.cc
-3659n.com
 3659ooo.com
 3659pp.com
 3659ppp.com
 3659ss.net
-3659sss.net
 3659tt.net
-3659u.com
 3659uuu.cc
 3659vip0.com
 3659vip11.com
@@ -7515,6 +7497,7 @@
 365abl.com
 365abn.com
 365aibo.com
+365analytics.xyz
 365ayudainterna.zya.me
 365be.com.br
 365bestapp.com
@@ -7561,7 +7544,6 @@
 365jisu.app
 365jkls.cc
 365k.915sj1.xyz
-365k02.com
 365k04.365k2024.cc
 365k04.com
 365k10.com
@@ -7601,21 +7583,14 @@
 365officenow.weebly.com
 365ok12.com
 365ok16.com
-365ok17.com
-365ok18.com
-365ok20.com
-365ok24.com
 365ok25.com
 365ok33.com
 365ok5.com
 365ok55.com
 365ok66.com
-365ok77.com
 365okh.com
 365okj.com
 365okn.com
-365okv.com
-365okw.com
 365okzb.cc
 365online24.com
 365onlineupdate.brizy.site
@@ -7702,6 +7677,7 @@
 37.sub-75-217-204.myvzw.com
 370155612367591-dot-wetransfer-auth-file-341.appspot.com
 37027cadfb2659285.temporary.link
+370363.cc
 3704610.filesusr.com
 3705386365.com
 3707comprehensive-fthcapital2.pages.dev
@@ -7729,7 +7705,6 @@
 3770.ru
 377080202567359722137708020256735972.blogspot.com
 3773bet.com
-377528.cc
 377648215106865-dot-buc-ksa-lrf.appspot.com
 377eda0397a442279a6eced2c48e0e26-dot-gle9392420309493993.rj.r.appspot.com
 3782accd-240a-41ae-af06-8eabd1d47719.usrfiles.com
@@ -8023,7 +7998,6 @@
 3cqu2-lqaaa-aaaad-qc5na-cai.ic0.app
 3csystem.vn
 3ct-dz.com
-3cu1u2x75.top
 3cwh9e43d.indylatinawrds.com
 3cx2.blob.core.windows.net
 3d-carte-pass.fr
@@ -8091,7 +8065,6 @@
 3ddscrivnerppivn86hkikp.tempa-bersama.co.id
 3declinewizxgdlvoau5.tempa-bersama.co.id
 3decology.org
-3deconomicdevelopmentconsortium.com
 3deepspace.com
 3desk.pl
 3despana.com
@@ -8241,6 +8214,7 @@
 3ee1f023163a7eeb37e48f6a2926aa3e-dot-gle9392420309493993.rj.r.appspot.com
 3ehouf.osweetburger.com
 3elsfhvy.robertaocana.com.br
+3er5t6yu.pages.dev
 3esfand1402.iranten50.workers.dev
 3esk.us
 3eso3-waaaa-aaaad-qdm4a-cai.ic0.app
@@ -8486,7 +8460,6 @@
 3rdstreetsville.ca
 3redlightfix.com
 3ref.nirdutudre.workers.dev
-3reshma.github.io
 3rexcellence.com
 3rg35g5.gb.net
 3ri.cc
@@ -8657,6 +8630,7 @@
 404.fuckyoucash.com
 404.hqhost.net
 404.safedog.cn
+4043ae3f44.cc5c5a5c56.com
 404730aaa7.3b9af5d326.com
 40489a0e-c3fe-44b8-b6b8-3c4d0d7a6e18.usrfiles.com
 404code.wixsite.com
@@ -8801,7 +8775,6 @@
 426g.com
 427224.com
 4272a894.192104.cn
-427391639.blogspot.com
 427bedfordroad.com
 4281242-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 429614c72b.153acc74fd.com
@@ -8872,7 +8845,6 @@
 435thoms2007reunion.myteamtoolbar.com
 436284login.weebly.com
 4363da58.adorn-insight.co.uk
-4365b67f-a597-4e17-8b51-179628.godaddysites.com
 4368-id-webmail-auth.weebly.com
 43681e8af5.dde2488558.com
 43689300f340f499mmf435.duckdns.org
@@ -9039,7 +9011,6 @@
 4573.ugv.ir
 4573785login.weebly.com
 4574c5a83f3739528.temporary.link
-457703.cc
 4577659087671243658723.duckdns.org
 457b1a42-924f-47c9-95c2-34acf7f9ea34.htmlcomponentservice.com
 4580687-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
@@ -9064,14 +9035,10 @@
 45dsffsfggg.blogspot.ba
 45dsffsfggg.blogspot.cl
 45dsffsfggg.blogspot.com
-45dsffsfggg.blogspot.com.by
 45dsffsfggg.blogspot.com.ee
-45dsffsfggg.blogspot.com.eg
 45dsffsfggg.blogspot.com.mt
 45dsffsfggg.blogspot.com.tr
-45dsffsfggg.blogspot.hr
 45dsffsfggg.blogspot.si
-45dsffsfggg.blogspot.sn
 45e614219d8ae1df0a52f2f6a3a0fa7d-dot-gle9392420309493993.rj.r.appspot.com
 45eecdb63766ae3dfe88e3b32f54ebeff.pages.dev
 45eijvhgj2.com
@@ -9193,6 +9160,7 @@
 47c63dee.adorn-insight.co.uk
 47c8d48301.com
 47d2cf8a-d178-4ebc-a8ec-64049798cc45.htmlpasta.com
+47df036031.47b2b18670.com
 47dff461d7.5afd9ec0ab.com
 47e0b.onhmhost.de
 47e160f7.sibforms.com
@@ -9355,7 +9323,6 @@
 4beast.com
 4bet938.com
 4betpromotion.blogspot.ba
-4betpromotion.blogspot.cl
 4betpromotion.blogspot.com.cy
 4betpromotion.blogspot.com.ee
 4betpromotion.blogspot.com.eg
@@ -9806,7 +9773,6 @@
 5.ohm-sport.fr
 5.sub-75-206-187.myvzw.com
 5.top4top.io
-5.zenithpath.com
 50.red-80-25-21.staticip.rima-tde.net
 500-plus.you24.eu
 5001.url25fatm.com
@@ -9828,6 +9794,7 @@
 502c2dae4e5cfad452551b5d7032b151-dot-goff039302032323.rj.r.appspot.com
 50365vip.com
 50368ce0a6.com
+50387-support.com
 503bcompounders.com
 504cox.page.link
 504e16f0.host.njalla.net
@@ -9862,6 +9829,7 @@
 50dc.short.gy
 50e0b9d7df12de6afa822ef2c97548e9-dot-dbenitonline.ey.r.appspot.com
 50ee258a.adorn-insight.co.uk
+50f0ac5daf.com
 50flyingstories.com
 50g.cd65.xyz
 50g.cr47.xyz
@@ -9921,6 +9889,7 @@
 517018685491696-dot-crafty-shade-294422.uk.r.appspot.com
 5171461-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 51755064423170637692080.jamb2022.co
+51759249.ixcb.sa.com
 5178424.com
 5178424428606005.weebly.com
 5178f9a0.adorn-insight.co.uk
@@ -10048,7 +10017,6 @@
 52ac888716.fe433129dc.com
 52b8584d-3027-4265-ab78-74f4c8603846.usrfiles.com
 52bianxian.com
-52bigfish.github.io
 52dfg.com
 52dvzo62i.com
 52e0ff58833f.ngrok.io
@@ -10104,7 +10072,6 @@
 5321b01406d0220fc8696b2fa9770b04-dot-gle9392420309493993.rj.r.appspot.com
 53233586365.com
 53241.cc
-532654.cc
 532f1842829453586.temporary.link
 53320da4-acec-4d69-b0fe-0c0c9bd145ea.usrfiles.com
 5336767ccc.com
@@ -10129,6 +10096,7 @@
 53708-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 5372913.elianalovely.eu.org
 53742744.weebly.com
+537de1de2c.c69199f27f.com
 538127.selcdn.ru
 5382505-dot-oaao-274308.uc.r.appspot.com
 538729.selcdn.ru
@@ -10360,7 +10328,6 @@
 5434253245.webtm.ru
 54369253290033.sytes.net
 543a9335.adorn-insight.co.uk
-543felix.github.io
 54417.cn
 544234141214414.hyperphp.com
 544389.weebly.com
@@ -10388,6 +10355,7 @@
 547856985412563366988785541255x8s78s.filesusr.com
 5478655699854421256636698775555444asxs.filesusr.com
 548280-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
+548623035654.cloud
 54882993.weebly.com
 548ashboar.weeblysite.com
 549602.filesusr.com
@@ -10651,6 +10619,7 @@
 5646a6bf-9e00-4885-b410-72a9c8caa4d4.usrfiles.com
 564788.c1.biz
 564808.selcdn.ru
+5648fdkspzjd5868d6-nikkokohatsu544421.codeanyapp.com
 564cv-6yaaa-aaaad-qduqq-cai.ic0.app
 564cv-6yaaa-aaaad-qduqq-cai.raw.ic0.app
 565231.selcdn.ru
@@ -10827,7 +10796,6 @@
 579c80ddcc3005456.temporary.link
 57cvfbxfhf.blogspot.al
 57cvfbxfhf.blogspot.am
-57cvfbxfhf.blogspot.com.by
 57cvfbxfhf.blogspot.com.co
 57cvfbxfhf.blogspot.com.cy
 57cvfbxfhf.blogspot.com.ee
@@ -10839,7 +10807,6 @@
 57cvfbxfhf.blogspot.is
 57cvfbxfhf.blogspot.li
 57cvfbxfhf.blogspot.lu
-57cvfbxfhf.blogspot.mk
 57cvfbxfhf.blogspot.pe
 57cvfbxfhf.blogspot.qa
 57d38e3023.com
@@ -10850,25 +10817,17 @@
 57f30c8117e3d4adbcf2-cf2c1da2bf5050261-61a5fd288357.pages.dev
 57f87999422ad24d387931f4dec9072f.pages.dev
 57fgfxgfg.blogspot.am
-57fgfxgfg.blogspot.ba
-57fgfxgfg.blogspot.bg
 57fgfxgfg.blogspot.com.by
-57fgfxgfg.blogspot.com.co
 57fgfxgfg.blogspot.com.cy
 57fgfxgfg.blogspot.com.eg
 57fgfxgfg.blogspot.com.mt
 57fgfxgfg.blogspot.com.ng
 57fgfxgfg.blogspot.com.tr
 57fgfxgfg.blogspot.com.uy
-57fgfxgfg.blogspot.hr
-57fgfxgfg.blogspot.is
 57fgfxgfg.blogspot.li
 57fgfxgfg.blogspot.lt
-57fgfxgfg.blogspot.lu
 57fgfxgfg.blogspot.mk
 57fgfxgfg.blogspot.qa
-57fgfxgfg.blogspot.si
-57fgfxgfg.blogspot.sn
 57fgfxgfg.blogspot.ug
 57hr75z9.square.site
 57ujt75843.weebly.com
@@ -10949,7 +10908,6 @@
 58746d458e04134ebabfbf2c1cbaf911.serveo.net
 58775845744c478777bv85528.filesusr.com
 5877c5877c.rahimiazar.com
-587829.cc
 587f9289-623b-46d9-b950-20b476dbfaff.usrfiles.com
 587tuchuang.com
 58832.duckdns.org
@@ -11003,7 +10961,6 @@
 593602.selcdn.ru
 5939208473.blogspot.com
 5939208473.blogspot.de
-5939208473.blogspot.fr
 5939208473.blogspot.gr
 5939208473.blogspot.ie
 5939208473.blogspot.pt
@@ -11270,7 +11227,6 @@
 5fa90557-ac25-491c-8bfa-07d15e86a939.usrfiles.com
 5fd5fd02f8.0da9c10970.com
 5fd74.v.fwmrm.net
-5fdff32d2df3.blogspot.be
 5fdff32d2df3.blogspot.bg
 5fdff32d2df3.blogspot.ch
 5fdff32d2df3.blogspot.cl
@@ -11286,7 +11242,6 @@
 5fdff32d2df3.blogspot.com.ng
 5fdff32d2df3.blogspot.com.tr
 5fdff32d2df3.blogspot.com.uy
-5fdff32d2df3.blogspot.de
 5fdff32d2df3.blogspot.dk
 5fdff32d2df3.blogspot.fr
 5fdff32d2df3.blogspot.hr
@@ -11322,9 +11277,6 @@
 5fffgfgfg4g4gh4fg4.blogspot.lt
 5fffrggefe3g.blogspot.com
 5fffrggefe3g.blogspot.com.cy
-5fffrggefe3g.blogspot.cz
-5fffrggefe3g.blogspot.hk
-5fffrggefe3g.blogspot.se
 5fffrggefe3g.blogspot.tw
 5ffgdfgf4g4gh.blogspot.com
 5ffgdgeg3f3f3g3g.blogspot.com
@@ -11355,11 +11307,9 @@
 5ffgfgfgg4g4gh4ge.blogspot.mk
 5ffgfgfgg4g4gh4ge.blogspot.tw
 5ffggffgg4g4g44.blogspot.com
-5ffhghfg43f3.blogspot.com
 5fg4g4h4h4hh.blogspot.com
 5fg4g4h4h4hh.blogspot.hk
 5fgddgfgg4g3f3.blogspot.com
-5fgddgfgg4g3f3.blogspot.com.es
 5fgddgfgg4g3f3.blogspot.com.tr
 5fgddgfgg4g3f3.blogspot.jp
 5fgdff322d.blogspot.al
@@ -11382,7 +11332,6 @@
 5fgdgegef3f3.blogspot.co.ke
 5fgdgegef3f3.blogspot.co.za
 5fgdgegef3f3.blogspot.com
-5fgdgegef3f3.blogspot.mk
 5fgdgfhg4f3ff.blogspot.com
 5fgdgfhg4f3ff.blogspot.lt
 5fgdgfhg4f3ff.blogspot.my
@@ -11417,7 +11366,6 @@
 5fgfdtef3f3f3.blogspot.ru
 5fgfegfeg4g4h4.blogspot.com
 5fgfegfg5h5h.blogspot.com
-5fgff4g4gg.blogspot.com
 5fgffdf33d22ff.blogspot.com
 5fgfffg4g4g4gh4.blogspot.am
 5fgfffg4g4g4gh4.blogspot.co.za
@@ -11461,9 +11409,6 @@
 5fgffgfg4g4g4fg.blogspot.si
 5fgffgfg4g4g4fg.blogspot.sn
 5fgffgfg4g4gh4fg4fe.blogspot.com
-5fgffgfg4g4gh4fg4fe.blogspot.com.ee
-5fgffgfg4g4gh4fg4fe.blogspot.com.mt
-5fgffgfg4g4gh4fg4fe.blogspot.pe
 5fgffgfg4g4gh4fg4fe.blogspot.sn
 5fgffgfg4g4gh4fg4v.blogspot.com
 5fgffgfg4g4gh4gffg.blogspot.com
@@ -11479,10 +11424,7 @@
 5fgffgfg4gh4hgfg4.blogspot.com
 5fgffgfgf4g4gh.blogspot.com
 5fgffgfgfg4g4gh4tf.blogspot.com
-5fgffgfgfg4g4gh4tf.blogspot.com.ee
-5fgffgfgfg4g4gh4tf.blogspot.com.tr
 5fgffgfgfg4g4gh4tf.blogspot.fi
-5fgffgfgfg4g4gh4tf.blogspot.sn
 5fgffgfggrfg4g4gh4.blogspot.com
 5fgffgfggrfg4g4gh4.blogspot.mk
 5fgffgfggrfg4g4gh4.blogspot.sn
@@ -11505,7 +11447,6 @@
 5fgffgg4g4ghd.blogspot.pe
 5fgffgg4g4ghd.blogspot.ro
 5fgffgg4g4ghd.blogspot.rs
-5fgffgg4g4ghf.blogspot.com
 5fgffgg4g4ghf.blogspot.sn
 5fgffggfg4g4g44.blogspot.com
 5fgffggfg4g4g44.blogspot.fr
@@ -11529,27 +11470,17 @@
 5fgffggfgffg4g4g.blogspot.sn
 5fgffggfgfg.blogspot.bg
 5fgffggfgfg.blogspot.com
-5fgffggfgfg.blogspot.com.co
 5fgffggfgfg.blogspot.hr
 5fgffggfgfg.blogspot.md
-5fgffggfgfg.blogspot.mk
 5fgffggfgfg.blogspot.sn
-5fgffggfgfg4g4g4gh.blogspot.al
 5fgffggfgfg4g4g4gh.blogspot.sn
-5fgffggfgfg4g4ghfg4d.blogspot.am
-5fgffggfgfg4g4ghfg4d.blogspot.co.ke
-5fgffggfgfg4g4ghfg4d.blogspot.com
 5fgffggfgfg4g4ghfg4d.blogspot.com.by
-5fgffggfgfg4g4ghfg4d.blogspot.com.cy
 5fgffggfgfg4g4ghfg4d.blogspot.com.es
 5fgffggfgfg4g4ghfg4d.blogspot.com.mt
 5fgffggfgfg4g4ghfg4d.blogspot.lu
-5fgffggfgfg4g4ghfg4d.blogspot.mk
-5fgffggfgfg4g4ghfg4d.blogspot.ug
 5fgffggfgfg4g4h45.blogspot.co.il
 5fgffggfgfg4g4h45.blogspot.co.ke
 5fgffggfgfg4g4h45.blogspot.com
-5fgffggfgfg4g4h45.blogspot.fi
 5fgffggfgrfeg44g.blogspot.com
 5fgffggfgrfeg44g.blogspot.hr
 5fgffggfgrfeg44g.blogspot.mk
@@ -11558,7 +11489,6 @@
 5fgffgreg4g34g3g3g3.blogspot.be
 5fgffgreg4g34g3g3g3.blogspot.com
 5fgffgreg4g34g3g3g3.blogspot.my
-5fgffgreg4g34g3g3g3.blogspot.pe
 5fgffgreg4g34g3g3g3.blogspot.si
 5fgffgreg4g34g3g3g3.blogspot.sn
 5fgffgrfgfg4g4gh4.blogspot.com
@@ -11590,7 +11520,6 @@
 5fgfgegegg4g3gh.blogspot.com.es
 5fgfgegegg4g3gh.blogspot.jp
 5fgfgf44g4h.blogspot.com
-5fgfgfdf43ff3.blogspot.com
 5fgfgfffg4g4gg4.blogspot.com
 5fgfgffg44g4g.blogspot.com
 5fgfgffg44g4g.blogspot.com.mt
@@ -11604,7 +11533,6 @@
 5fgfgffg4g4gh4fg4dsa.blogspot.al
 5fgfgffg4g4gh4fg4dsa.blogspot.am
 5fgfgffg4g4gh4fg4dsa.blogspot.ba
-5fgfgffg4g4gh4fg4dsa.blogspot.be
 5fgfgffg4g4gh4fg4dsa.blogspot.cl
 5fgfgffg4g4gh4fg4dsa.blogspot.com
 5fgfgffg4g4gh4fg4dsa.blogspot.com.by
@@ -11622,12 +11550,10 @@
 5fgfgffg4g4gh4g4.blogspot.co.at
 5fgfgffg4g4gh4g4.blogspot.co.id
 5fgfgffg4g4gh4g4.blogspot.co.nz
-5fgfgffg4g4gh4g4.blogspot.co.za
 5fgfgffg4g4gh4g4.blogspot.com
 5fgfgffg4g4gh4g4.blogspot.com.es
 5fgfgffg4g4ghfg.blogspot.com
 5fgfgffg4g4ghgh.blogspot.com
-5fgfgffgfg4g4gg.blogspot.ba
 5fgfgffgfg4g4gg.blogspot.com
 5fgfgffgfg4g4gh4.blogspot.com
 5fgfgffgfg4g4gh4.blogspot.mk
@@ -11637,7 +11563,6 @@
 5fgfgffgg4g4gh4fg.blogspot.com
 5fgfgffgg4g4gh4fg.blogspot.is
 5fgfgffgg4g4gh4fg.blogspot.lt
-5fgfgffgg4g4gh4fg.blogspot.sn
 5fgfgffgg4g4gh4fg.blogspot.tw
 5fgfgffgg4g4h4h.blogspot.ba
 5fgfgffgg4g4h4h.blogspot.ca
@@ -11646,15 +11571,12 @@
 5fgfgffgg4g4h4h.blogspot.sn
 5fgfgffgg4g4h4h.blogspot.tw
 5fgfgffggr4g4gh.blogspot.com
-5fgfgffggr4g4gh.blogspot.com.ee
 5fgfgffggr4g4gh.blogspot.mk
-5fgfgffggr4g4gh.blogspot.rs
 5fgfgffggr4g4gh.blogspot.sn
 5fgfgffggr4g4gh.blogspot.ug
 5fgfgffgrg4g4gh4fg4fg.blogspot.com
 5fgfgffgrg4g4gh4fg4fg.blogspot.sn
 5fgfgffh4gh4h.blogspot.com
-5fgfgffhgffgh4.blogspot.com
 5fgfgffhgh4g.blogspot.com
 5fgfgffhgh4g.blogspot.md
 5fgfgfg4g3g3.blogspot.com
@@ -11690,7 +11612,6 @@
 5fgfgfg4g4gh4fg45.blogspot.hk
 5fgfgfg4g4gh4fg4fg5.blogspot.com
 5fgfgfg4g4gh4fg4fg5.blogspot.hr
-5fgfgfg4g4gh4fg4fg5.blogspot.mk
 5fgfgfg4g4gh4fg4fg5.blogspot.qa
 5fgfgfg4g4gh4fg4rg4.blogspot.com
 5fgfgfg4g4gh4fgr.blogspot.com
@@ -11698,7 +11619,6 @@
 5fgfgfg4g4gh4gf4f.blogspot.com
 5fgfgfg4g4gh4hdf3.blogspot.com
 5fgfgfg4g4gh4hfg4dgh.blogspot.com
-5fgfgfg4g4gh4hfg4dgh.blogspot.md
 5fgfgfg4g4gh4hfg4dgh.blogspot.mk
 5fgfgfg4g4gh4hfg4dgh.blogspot.sn
 5fgfgfg4g4gh4hv.blogspot.co.id
@@ -11739,7 +11659,6 @@
 5fgfgfgffg4g4hj4.blogspot.com
 5fgfgfgffg4gg.blogspot.com
 5fgfgfgffgg4g4ggh.blogspot.com
-5fgfgfgffgrg4g4g.blogspot.com
 5fgfgfgffgrg4g4g.blogspot.com.eg
 5fgfgfgfg44g4gfg4.blogspot.com
 5fgfgfgfg44g4grh.blogspot.com
@@ -11753,7 +11672,6 @@
 5fgfgfgfg44gh4hfgfg4g4.blogspot.pe
 5fgfgfgfg4g44g.blogspot.com
 5fgfgfgfg4g4fg.blogspot.ca
-5fgfgfgfg4g4fg.blogspot.co.at
 5fgfgfgfg4g4fg.blogspot.co.id
 5fgfgfgfg4g4fg.blogspot.co.ke
 5fgfgfgfg4g4fg.blogspot.co.nz
@@ -11764,7 +11682,6 @@
 5fgfgfgfg4g4fg.blogspot.com.ee
 5fgfgfgfg4g4fg.blogspot.com.eg
 5fgfgfgfg4g4fg.blogspot.com.ng
-5fgfgfgfg4g4fg.blogspot.com.tr
 5fgfgfgfg4g4fg.blogspot.com.uy
 5fgfgfgfg4g4fg.blogspot.cz
 5fgfgfgfg4g4fg.blogspot.gr
@@ -11783,12 +11700,10 @@
 5fgfgfgfg4g4g4gfg4dg.blogspot.sn
 5fgfgfgfg4g4g4gfg4fd.blogspot.com
 5fgfgfgfg4g4g4gfg4fd.blogspot.mk
-5fgfgfgfg4g4g4gfg4fg.blogspot.al
 5fgfgfgfg4g4g4gfg4fg.blogspot.ba
 5fgfgfgfg4g4g4gfg4fg.blogspot.co.id
 5fgfgfgfg4g4g4gfg4fg.blogspot.com
 5fgfgfgfg4g4g4gfg4fg.blogspot.md
-5fgfgfgfg4g4g4gfg4fg.blogspot.mk
 5fgfgfgfg4g4g4gh4fgr.blogspot.ch
 5fgfgfgfg4g4g4gh4fgr.blogspot.com
 5fgfgfgfg4g4g4gh4fgr.blogspot.kr
@@ -11803,41 +11718,31 @@
 5fgfgfgfg4g4gfg4s.blogspot.mk
 5fgfgfgfg4g4gfg4s.blogspot.si
 5fgfgfgfg4g4gfg4s.blogspot.sn
-5fgfgfgfg4g4gfgfg4.blogspot.com
 5fgfgfgfg4g4gg4.blogspot.com
 5fgfgfgfg4g4gh4df.blogspot.com
 5fgfgfgfg4g4gh4df.blogspot.com.ee
 5fgfgfgfg4g4gh4fd.blogspot.ba
 5fgfgfgfg4g4gh4fd.blogspot.com
-5fgfgfgfg4g4gh4fd.blogspot.com.by
 5fgfgfgfg4g4gh4fd.blogspot.li
 5fgfgfgfg4g4gh4fg4dggh.blogspot.com
 5fgfgfgfg4g4gh4fg4fdd.blogspot.com.es
 5fgfgfgfg4g4gh4fg4fdg.blogspot.sn
-5fgfgfgfg4g4gh4fg4fgv.blogspot.com
 5fgfgfgfg4g4gh4fg4fgv.blogspot.fr
 5fgfgfgfg4g4gh4fg4fgv.blogspot.qa
-5fgfgfgfg4g4gh4fg4fgv.blogspot.tw
 5fgfgfgfg4g4gh4fg4g4.blogspot.com.uy
-5fgfgfgfg4g4gh4fg4g4.blogspot.mk
 5fgfgfgfg4g4gh4fg4g4.blogspot.si
 5fgfgfgfg4g4gh4fg4g4.blogspot.sn
 5fgfgfgfg4g4gh4fg4g4.blogspot.tw
 5fgfgfgfg4g4gh4fg4g4.blogspot.ug
 5fgfgfgfg4g4gh4fgdf.blogspot.com
-5fgfgfgfg4g4gh4fgdf.blogspot.hr
-5fgfgfgfg4g4gh4fgdf.blogspot.lt
 5fgfgfgfg4g4gh4fgdf.blogspot.rs
 5fgfgfgfg4g4gh4fgfdg.blogspot.com
-5fgfgfgfg4g4gh4fgfdg.blogspot.mk
 5fgfgfgfg4g4gh4fgfdg.blogspot.rs
 5fgfgfgfg4g4gh4fgfdg.blogspot.sn
-5fgfgfgfg4g4gh4fgfdg.blogspot.tw
 5fgfgfgfg4g4gh4fgfdgg.blogspot.com
 5fgfgfgfg4g4gh4fgfdgg.blogspot.com.ng
 5fgfgfgfg4g4gh4fgfdgg.blogspot.rs
 5fgfgfgfg4g4gh4fgfgh.blogspot.com
-5fgfgfgfg4g4gh4fgfgh.blogspot.com.au
 5fgfgfgfg4g4gh4fgfr.blogspot.com
 5fgfgfgfg4g4gh4fgfr.blogspot.sn
 5fgfgfgfg4g4gh4fggf.blogspot.com
@@ -11870,14 +11775,12 @@
 5fgfgfgfg4g4gh4frg.blogspot.in
 5fgfgfgfg4g4gh4frg.blogspot.is
 5fgfgfgfg4g4gh4frg.blogspot.jp
-5fgfgfgfg4g4gh4frg.blogspot.li
 5fgfgfgfg4g4gh4frg.blogspot.md
 5fgfgfgfg4g4gh4frg.blogspot.mx
 5fgfgfgfg4g4gh4frg.blogspot.nl
 5fgfgfgfg4g4gh4frg.blogspot.pe
 5fgfgfgfg4g4gh4frg.blogspot.pt
 5fgfgfgfg4g4gh4frg.blogspot.rs
-5fgfgfgfg4g4gh4frg.blogspot.se
 5fgfgfgfg4g4gh4frg.blogspot.si
 5fgfgfgfg4g4gh4frg.blogspot.sk
 5fgfgfgfg4g4gh4frg.blogspot.ug
@@ -11896,22 +11799,15 @@
 5fgfgfgfg4g4gh4h4fg4.blogspot.sn
 5fgfgfgfg4g4gh4hfg4d.blogspot.com
 5fgfgfgfg4g4gh4hfg4dggd.blogspot.com
-5fgfgfgfg4g4gh4hfg4dggd.blogspot.mk
 5fgfgfgfg4g4gh4hfg4dggd.blogspot.sn
-5fgfgfgfg4g4gh4hfg4dggh.blogspot.com
-5fgfgfgfg4g4gh4hfg4dggh.blogspot.com.co
 5fgfgfgfg4g4gh4hfg4dggh.blogspot.sn
 5fgfgfgfg4g4gh4hfg4dsf.blogspot.co.za
-5fgfgfgfg4g4gh4hfg4dsf.blogspot.com.by
-5fgfgfgfg4g4gh4hfg4dsf.blogspot.hr
 5fgfgfgfg4g4gh4hfg4dsf.blogspot.si
 5fgfgfgfg4g4gh4hfg4ff.blogspot.com.cy
 5fgfgfgfg4g4gh4hfg4ff.blogspot.md
 5fgfgfgfg4g4gh4hfge.blogspot.com
 5fgfgfgfg4g4gh4hfge.blogspot.com.co
 5fgfgfgfg4g4gh4hfge.blogspot.com.ng
-5fgfgfgfg4g4gh4hfge.blogspot.mk
-5fgfgfgfg4g4gh4hfge.blogspot.si
 5fgfgfgfg4g4gh4hfge.blogspot.sn
 5fgfgfgfg4g4gh4hfs.blogspot.co.id
 5fgfgfgfg4g4gh4hfs.blogspot.com
@@ -11926,18 +11822,12 @@
 5fgfgfgfg4g4gh4rgff.blogspot.com.uy
 5fgfgfgfg4g4gh4rgff.blogspot.sn
 5fgfgfgfg4g4ghdg.blogspot.com
-5fgfgfgfg4g4ghdg4.blogspot.com
 5fgfgfgfg4g4ghfg4df.blogspot.al
-5fgfgfgfg4g4ghfg4df.blogspot.com
 5fgfgfgfg4g4ghfg4df.blogspot.sn
-5fgfgfgfg4g4ghfg4dgg.blogspot.lt
 5fgfgfgfg4g4ghfg4fg4.blogspot.com
-5fgfgfgfg4g4ghfg4fg4.blogspot.mk
 5fgfgfgfg4g4ghgdfg.blogspot.com
-5fgfgfgfg4g4ghgdfg.blogspot.sk
 5fgfgfgfg4g4ghh.blogspot.com
 5fgfgfgfg4g4ghh.blogspot.md
-5fgfgfgfg4g4ghh.blogspot.mk
 5fgfgfgfg4g4ghh.blogspot.sn
 5fgfgfgfg4g4gj4h4.blogspot.co.za
 5fgfgfgfg4g4gj4h4.blogspot.com
@@ -11956,7 +11846,6 @@
 5fgfgfgfg4g4jh.blogspot.com.uy
 5fgfgfgfg4g4jh.blogspot.jp
 5fgfgfgfg4g4jh.blogspot.kr
-5fgfgfgfg4g4jh.blogspot.li
 5fgfgfgfg4g4jh.blogspot.no
 5fgfgfgfg4g4jh.blogspot.si
 5fgfgfgfg4g4jh.blogspot.sk
@@ -11976,24 +11865,19 @@
 5fgfgfgfg4gh54.blogspot.bg
 5fgfgfgfg4gh54.blogspot.co.id
 5fgfgfgfg4gh54.blogspot.com
-5fgfgfgfg4gh54.blogspot.com.by
 5fgfgfgfg4gh54.blogspot.com.mt
 5fgfgfgfg4gh54.blogspot.com.ng
-5fgfgfgfg4gh54.blogspot.com.uy
 5fgfgfgfg4gh54.blogspot.lu
 5fgfgfgfg4gh54.blogspot.md
 5fgfgfgfg4gh54.blogspot.sn
-5fgfgfgfg4rg4gh.blogspot.com
 5fgfgfgfg4rg4gh.blogspot.is
 5fgfgfgfg4rg4gh.blogspot.sn
-5fgfgfgfgf4g.blogspot.com
 5fgfgfgfgf4g.blogspot.com.cy
 5fgfgfgfgf4g.blogspot.com.eg
 5fgfgfgfgf4g.blogspot.com.ng
 5fgfgfgfgf4g.blogspot.hu
 5fgfgfgfgf4g.blogspot.ie
 5fgfgfgfgf4g.blogspot.li
-5fgfgfgfgfg4g.blogspot.com
 5fgfgfgfgfg4g.blogspot.com.tr
 5fgfgfgfgfg4g4g5fgf.blogspot.mk
 5fgfgfgfgfg4g4gdf.blogspot.co.id
@@ -12020,19 +11904,15 @@
 5fgfgfgfgfg4g4gh4fgdg.blogspot.com.tr
 5fgfgfgfgfg4g4gh4fgr.blogspot.com
 5fgfgfgfgfg4g4gh4fgr.blogspot.lt
-5fgfgfgfgfg4g4gh4rgfg.blogspot.com
 5fgfgfgfgfg4g4gh4rgfg.blogspot.hr
 5fgfgfgfgfg4g4ghd.blogspot.com
-5fgfgfgfgfg4g4ghd.blogspot.tw
 5fgfgfgfgfg4g4ghf.blogspot.com
 5fgfgfgfgfg4g4ghf.blogspot.ro
 5fgfgfgfgfg4g4ghf.blogspot.sn
-5fgfgfgfgfg4gh4hfg.blogspot.com
 5fgfgfgfgfgf4gg4.blogspot.com
 5fgfgfgfgfgf4gg4.blogspot.com.es
 5fgfgfgfgfgfg4g.blogspot.com
 5fgfgfgfgfgfg4g.blogspot.cz
-5fgfgfgfgfgfg4g4gh4hf.blogspot.ba
 5fgfgfgfgfgfg4g4gh4hf.blogspot.com
 5fgfgfgfgfrgr4g4g.blogspot.lu
 5fgfgfgfgfrgr4g4g.blogspot.tw
@@ -12041,7 +11921,6 @@
 5fgfgfgfgg4g4gg4.blogspot.com
 5fgfgfgfgg4g4gh4fgf.blogspot.com
 5fgfgfgfgg4g4gh4fgf.blogspot.mk
-5fgfgfgfgg4g4gh4h.blogspot.com
 5fgfgfgfgg4g4ghfg4d.blogspot.com
 5fgfgfgfgg4g4ghfg4d.blogspot.mk
 5fgfgfgfgg4g4ghfg4d.blogspot.sn
@@ -12050,10 +11929,8 @@
 5fgfgfgfgr4g4g4.blogspot.com
 5fgfgfgfgr4g4g4.blogspot.li
 5fgfgfgfgr4g4g4.blogspot.mk
-5fgfgfgfgr4g4g4.blogspot.sn
 5fgfgfgfgrfg4g4.blogspot.com
 5fgfgfgfgrfg4g4.blogspot.mk
-5fgfgfgfgrfg4g4g4.blogspot.com
 5fgfgfgfgrfg4g4g4.blogspot.com.uy
 5fgfgfgfgrfg4g4g4.blogspot.mk
 5fgfgfgfgrfg4g4g4.blogspot.ug
@@ -12067,14 +11944,10 @@
 5fgfgfgfgrfgrg4g4.blogspot.mk
 5fgfgfgfgrfgrg4g4.blogspot.sn
 5fgfgfgfgrfrgg4gg.blogspot.am
-5fgfgfgfgrfrgg4gg.blogspot.ba
 5fgfgfgfgrfrgg4gg.blogspot.bg
-5fgfgfgfgrfrgg4gg.blogspot.co.id
 5fgfgfgfgrfrgg4gg.blogspot.co.za
 5fgfgfgfgrfrgg4gg.blogspot.com
-5fgfgfgfgrfrgg4gg.blogspot.com.co
 5fgfgfgfgrfrgg4gg.blogspot.com.ee
-5fgfgfgfgrfrgg4gg.blogspot.com.eg
 5fgfgfgfgrfrgg4gg.blogspot.com.tr
 5fgfgfgfgrfrgg4gg.blogspot.is
 5fgfgfgfgrfrgg4gg.blogspot.md
@@ -12082,8 +11955,6 @@
 5fgfgfgfgrfrgg4gg.blogspot.pe
 5fgfgfgfgrfrgg4gg.blogspot.qa
 5fgfgfgfgrfrgg4gg.blogspot.rs
-5fgfgfgfgrfrgg4gg.blogspot.si
-5fgfgfgfgrfrgg4gg.blogspot.ug
 5fgfgfgfgrg4g4fg.blogspot.am
 5fgfgfgfgrg4g4fg.blogspot.com
 5fgfgfgfgrg4g4ggh.blogspot.com
@@ -12092,29 +11963,23 @@
 5fgfgfgfgrg4g4ghfg4.blogspot.mk
 5fgfgfgfgrg4g4ghfg4.blogspot.sn
 5fgfgfgfgrg4g4h4.blogspot.com
-5fgfgfgfgrg4g4h4.blogspot.com.by
 5fgfgfgfgrg4g4h4fg4d.blogspot.com
 5fgfgfgfgrg4g4h4g4s.blogspot.com
 5fgfgfgfgrg4g4h4g4s.blogspot.in
 5fgfgfgfrg4g4gh4f.blogspot.co.za
-5fgfgfgfrg4g4gh4f.blogspot.com
 5fgfgfgg4g4g4ghfg4.blogspot.com
-5fgfgfgg4g4g4ghfg4.blogspot.com.co
 5fgfgfgg4g4g4ghfg4.blogspot.pe
 5fgfgfgg4g4g4ghfg4.blogspot.pt
 5fgfgfgg4g4gg4.blogspot.bg
 5fgfgfgg4g4gg4.blogspot.com
 5fgfgfgg4g4gg4.blogspot.sn
-5fgfgfgg4g4gh4fg4d.blogspot.co.ke
 5fgfgfgg4g4gh4fg4d.blogspot.com
 5fgfgfgg4g4gh4fg4d.blogspot.com.co
-5fgfgfgg4g4gh4fg4d.blogspot.cz
 5fgfgfgg4g4gh4fg4d.blogspot.fr
 5fgfgfgg4g4gh4fg4d.blogspot.hk
 5fgfgfgg4g4gh4fg4d.blogspot.it
 5fgfgfgg4g4gh4fg4d.blogspot.lu
 5fgfgfgg4g4gh4fg4d.blogspot.mk
-5fgfgfgg4g4gh4fg4d.blogspot.qa
 5fgfgfgg4g4gh4fg4d.blogspot.rs
 5fgfgfgg4g4gh4fg4d.blogspot.se
 5fgfgfgg4g4gh4fg4dg.blogspot.com
@@ -12128,19 +11993,12 @@
 5fgfgfgg4g4hfg.blogspot.com
 5fgfgfgg4g4hfg.blogspot.lu
 5fgfgfggfgf4g.blogspot.com
-5fgfgfggfgfg4g4h4h.blogspot.ba
 5fgfgfggfgfg4g4h4h.blogspot.bg
 5fgfgfggfgfg4g4h4h.blogspot.cl
 5fgfgfggfgfg4g4h4h.blogspot.co.ke
-5fgfgfggfgfg4g4h4h.blogspot.com
 5fgfgfggfgfg4g4h4h.blogspot.com.by
-5fgfgfggfgfg4g4h4h.blogspot.com.cy
-5fgfgfggfgfg4g4h4h.blogspot.com.eg
-5fgfgfggfgfg4g4h4h.blogspot.com.mt
-5fgfgfggfgfg4g4h4h.blogspot.com.tr
 5fgfgfggfgfg4g4h4h.blogspot.com.uy
 5fgfgfggfgfg4g4h4h.blogspot.lt
-5fgfgfggfgfg4g4h4h.blogspot.mk
 5fgfgfggfgfg4g4h4h.blogspot.ug
 5fgfgfggrg4g4gh.blogspot.com
 5fgfgfgrfg4g4.blogspot.bg
@@ -12155,23 +12013,17 @@
 5fgfgfgrfg4g4.blogspot.si
 5fgfgfgrfg4g4gh4fg4f.blogspot.com.ee
 5fgfgfgrfg4g4gh4fg4f.blogspot.mk
-5fgfgfgrfg4g4gh4fg4g.blogspot.com
 5fgfgfgrfg4g4gh4fg4g.blogspot.in
 5fgfgfgrfg4g4gh4hfg4fg4.blogspot.bg
 5fgfgfgrfg4g4gh4hfg4fg4.blogspot.ca
 5fgfgfgrfg4g4gh4hfg4fg4.blogspot.com
 5fgfgfgrfg4g4gh4hfg4fg4.blogspot.com.by
-5fgfgfgrfg4g4gh4hfg4fg4.blogspot.com.mt
 5fgfgfgrfg4g4gh4hfg4fg4.blogspot.de
 5fgfgfgrfg4g4gh4hfg4fg4.blogspot.hr
 5fgfgfgrfg4g4gh4hfg4fg4.blogspot.li
 5fgfgfgrfg4g4gh4hfg4fg4.blogspot.lt
-5fgfgfgrfg4g4gh4hfg4fg4.blogspot.pe
-5fgfgfgrfg4g4gh4hfg4fg4.blogspot.qa
 5fgfgfgrfg4g4gh4hfg4fg4.blogspot.rs
-5fgfgfgrfg4g4gh4hfg4fg4.blogspot.sn
 5fgfgfgrfg4g4gh4hfg4fg4.blogspot.tw
-5fgfgfgrfg4g4gh4hfg4fg4.blogspot.ug
 5fgfgfgrfg4g4ghg4.blogspot.com
 5fgfgfgrfg4g4ghg4.blogspot.sn
 5fgfgfgrfgr4g4g.blogspot.al
@@ -12182,7 +12034,6 @@
 5fgfgfgrfgrg4g4g.blogspot.com.ee
 5fgfgfgrfgrg4g4g.blogspot.mk
 5fgfgfgrg4g4g4g.blogspot.ba
-5fgfgfgrg4g4g4g.blogspot.cl
 5fgfgfgrg4g4g4g.blogspot.co.za
 5fgfgfgrg4g4g4g.blogspot.com
 5fgfgfgrg4g4g4g.blogspot.com.cy
@@ -12199,36 +12050,28 @@
 5fgfgfgrg4g4g4h.blogspot.com
 5fgfgfgrg4g4gh4fg4fd.blogspot.com
 5fgfgfgrg4g4gh4fg4fd.blogspot.mk
-5fgfgfgrg4g4gh4fg4fd.blogspot.sn
 5fgfgfgrg4g4gh4fg4fd.blogspot.tw
 5fgfgfgrg4g4gh4fgs.blogspot.com
 5fgfgfgrg4g4gh4fgs.blogspot.rs
 5fgfgfgrg4g4gh4fgs.blogspot.sn
 5fgfgfgrg4g4gh4g4g.blogspot.com
-5fgfgfgrg4g4gh4hfg.blogspot.sn
 5fgfgfgrg4g4gh4hfg4f.blogspot.com
 5fgfgfgrg4g4gh4hfg4f.blogspot.tw
-5fgfgfgrg4g4ghfg4rf.blogspot.ba
 5fgfgfgrg4g4h4.blogspot.com
 5fgfgfgrg4g4h4h.blogspot.com
 5fgfgfgrg4g4h4h.blogspot.sn
-5fgfgfgrg4gh4.blogspot.com
 5fgfgfhggfhth44g.blogspot.mx
 5fgfgfrgfg4g4g.blogspot.am
-5fgfgfrgfg4g4g.blogspot.co.nz
 5fgfgfrgfg4g4g.blogspot.com.eg
 5fgfgfrgfg4g4g.blogspot.com.es
 5fgfgfrgfg4g4g.blogspot.lu
 5fgfgfrgfg4g4g.blogspot.ru
-5fgfgfrgg4g4gh.blogspot.com
 5fgfgg4g4g4gh5.blogspot.bg
 5fgfgg4g4g4gh5.blogspot.co.ke
 5fgfgg4g4g4gh5.blogspot.com
-5fgfgg4g4g4gh5.blogspot.com.by
 5fgfgg4g4g4gh5.blogspot.com.cy
 5fgfgg4g4g4gh5.blogspot.com.ee
 5fgfgg4g4g4gh5.blogspot.com.eg
-5fgfgg4g4g4gh5.blogspot.com.ng
 5fgfgg4g4g4gh5.blogspot.com.tr
 5fgfgg4g4g4gh5.blogspot.com.uy
 5fgfgg4g4g4gh5.blogspot.hr
@@ -12261,21 +12104,15 @@
 5fgfggfgfg4g4h4.blogspot.com.by
 5fgfggfgfg4g4h4.blogspot.com.ee
 5fgfggfgfg4g4h4.blogspot.com.eg
-5fgfggfgfg4g4h4.blogspot.li
 5fgfggfgfg4g4h4.blogspot.md
 5fgfggfgfg4g4h4.blogspot.mk
 5fgfggfgfg4g4h4.blogspot.ug
-5fgfggfgr4g4g.blogspot.co.za
 5fgfggfgr4g4g.blogspot.com
-5fgfggfgr4g4g.blogspot.com.by
 5fgfggfgr4g4g.blogspot.com.co
 5fgfggfgr4g4g.blogspot.com.cy
 5fgfggfgr4g4g.blogspot.com.eg
 5fgfggfgr4g4g.blogspot.fi
-5fgfggfgr4g4g.blogspot.hr
 5fgfggfgr4g4g.blogspot.is
-5fgfggfgr4g4g.blogspot.li
-5fgfggfgr4g4g.blogspot.lu
 5fgfggfgr4g4g.blogspot.md
 5fgfggfgr4g4g.blogspot.sn
 5fgfgggfg4g4gh.blogspot.com
@@ -12293,8 +12130,6 @@
 5fgfgrfgfrg4g4gh4.blogspot.com
 5fgfgrfgfrg4g4gh4.blogspot.com.ar
 5fgfgrfgfrg4g4gh4.blogspot.com.cy
-5fgfgrfgfrg4g4gh4.blogspot.mk
-5fgfgrfgfrg4g4gh4.blogspot.rs
 5fgfgrfgfrg4g4gh4.blogspot.sn
 5fgfgrg4g4g4g.blogspot.co.nz
 5fgfgrg4g4g4g.blogspot.co.uk
@@ -12314,7 +12149,6 @@
 5fgfhgfgh4hgh.blogspot.com
 5fgfhhrh44h4h4.blogspot.al
 5fgfhhrh44h4h4.blogspot.com
-5fggdf3f3f3g4g.blogspot.com
 5fggdf3f3f3g4g.blogspot.com.by
 5fggdf3f3f3g4g.blogspot.com.eg
 5fggdf3f3f3g4g.blogspot.sn
@@ -12331,7 +12165,6 @@
 5fggfg45g.blogspot.com
 5fggfg4g4gg.blogspot.com
 5fggfg4g4h4.blogspot.al
-5fggfg4g4h4.blogspot.ba
 5fggfg4g4h4.blogspot.co.za
 5fggfg4g4h4.blogspot.com
 5fggfg4g4h4.blogspot.com.es
@@ -12371,11 +12204,8 @@
 5fggfgfg4g4g4ghfg.blogspot.com.uy
 5fggfgfg4g4g4ghfg.blogspot.de
 5fggfgfg4g4g4ghfg.blogspot.hk
-5fggfgfg4g4g4ghfg.blogspot.in
-5fggfgfg4g4g4ghfg.blogspot.is
 5fggfgfg4g4g4ghfg.blogspot.lt
 5fggfgfg4g4g4ghfg.blogspot.lu
-5fggfgfg4g4g4ghfg.blogspot.md
 5fggfgfg4g4g4ghfg.blogspot.nl
 5fggfgfg4g4g4ghfg.blogspot.no
 5fggfgfg4g4g4ghfg.blogspot.pt
@@ -12387,7 +12217,6 @@
 5fggfgfg4g4gh4fg4.blogspot.com
 5fggfgfg4g4gh4fg4dg.blogspot.ae
 5fggfgfg4g4gh4fg4dg.blogspot.al
-5fggfgfg4g4gh4fg4dg.blogspot.be
 5fggfgfg4g4gh4fg4dg.blogspot.co.at
 5fggfgfg4g4gh4fg4dg.blogspot.co.id
 5fggfgfg4g4gh4fg4dg.blogspot.com
@@ -12409,7 +12238,6 @@
 5fggfgfgfg4g4g4.blogspot.com
 5fggfgfgfg4g4g4.blogspot.com.cy
 5fggfgfgfg4g4g4.blogspot.com.ng
-5fggfgfgfg4g4g4.blogspot.hr
 5fggfgfgfg4g4g4.blogspot.si
 5fggfgfgfg4g4gfgfg4.blogspot.com
 5fggfgfgfg4g4gfgfg4.blogspot.mk
@@ -12425,37 +12253,26 @@
 5fggfgfgfg4g4gh.blogspot.ro
 5fggfgfgfg4g4gh4fg4.blogspot.am
 5fggfgfgfg4g4gh4fg4.blogspot.bg
-5fggfgfgfg4g4gh4fg4.blogspot.co.il
 5fggfgfgfg4g4gh4fg4.blogspot.co.ke
 5fggfgfgfg4g4gh4fg4.blogspot.com
 5fggfgfgfg4g4gh4fg4.blogspot.com.by
-5fggfgfgfg4g4gh4fg4.blogspot.com.cy
 5fggfgfgfg4g4gh4fg4.blogspot.com.ee
 5fggfgfgfg4g4gh4fg4.blogspot.com.eg
-5fggfgfgfg4g4gh4fg4.blogspot.com.es
 5fggfgfgfg4g4gh4fg4.blogspot.com.mt
 5fggfgfgfg4g4gh4fg4.blogspot.com.ng
 5fggfgfgfg4g4gh4fg4.blogspot.fi
-5fggfgfgfg4g4gh4fg4.blogspot.hr
 5fggfgfgfg4g4gh4fg4.blogspot.is
-5fggfgfgfg4g4gh4fg4.blogspot.li
-5fggfgfgfg4g4gh4fg4.blogspot.lu
 5fggfgfgfg4g4gh4fg4.blogspot.md
 5fggfgfgfg4g4gh4fg4.blogspot.mk
 5fggfgfgfg4g4gh4fg4.blogspot.sn
-5fggfgfgfg4g4gh4g4.blogspot.co.za
 5fggfgfgfg4g4gh4g4.blogspot.com
-5fggfgfgfg4g4hgh.blogspot.com
 5fggfgfgfg4g4hgh.blogspot.mk
 5fggfgfgfgfgg4g4g4.blogspot.com
 5fggfgfgrfg4g4gh4hf.blogspot.co.za
-5fggfgfgrfg4g4gh4hf.blogspot.com
-5fggfgfgrfg4g4gh4hf.blogspot.hr
 5fggfgfgrfg4g4gh4hf.blogspot.lt
 5fggfgfgrfg4g4gh4hf.blogspot.mk
 5fggfgfgrfg4g4gh4hf.blogspot.sn
 5fggfgg4g4gh4h.blogspot.com
-5fggfggfg4g4ggh.blogspot.com
 5fggfggfg4ghh.blogspot.com
 5fggfggrfg4g4gh.blogspot.com
 5fggfggrfg4g4gh.blogspot.se
@@ -12464,7 +12281,6 @@
 5fggfgrg4g4gh4fg.blogspot.com
 5fggfgrg4g4gh4fg.blogspot.hk
 5fggfgrg4g4gh4fg.blogspot.hu
-5fggfgrg4g4gh4fg.blogspot.mx
 5fggfgrg4g4gh4fg.blogspot.sn
 5fggfgrgg4g4gh.blogspot.com
 5fggfhtrh5h.blogspot.com
@@ -12473,14 +12289,12 @@
 5fgggfgfgg4g4gh.blogspot.co.id
 5fgggfgfgg4g4gh.blogspot.com
 5fgggfgrfg4gh.blogspot.al
-5fgggfgrfg4gh.blogspot.am
 5fgggfgrfg4gh.blogspot.co.id
 5fgggfgrfg4gh.blogspot.co.za
 5fgggfgrfg4gh.blogspot.com
 5fgggfgrfg4gh.blogspot.com.cy
 5fgggfgrfg4gh.blogspot.com.eg
 5fgggfgrfg4gh.blogspot.com.ng
-5fgggfgrfg4gh.blogspot.li
 5fgggfgrfg4gh.blogspot.lt
 5fgggfgrfg4gh.blogspot.md
 5fgggfgrfg4gh.blogspot.pe
@@ -12497,10 +12311,8 @@
 5fggjhj6j66j6.blogspot.com.ee
 5fggjhj6j66j6.blogspot.li
 5fggjhj6j66j6.blogspot.lt
-5fggjhj6j66j6.blogspot.lu
 5fggjjjg5gg4g4.blogspot.com
 5fggrfgrg4g4h4h54.blogspot.co.id
-5fggrfgrg4g4h4h54.blogspot.com
 5fghggh4hjh4.blogspot.com
 5fghggjt4g3g3fg.blogspot.co.il
 5fghggjt4g3g3fg.blogspot.com
@@ -12516,22 +12328,15 @@
 5fgrregefef3f.blogspot.my
 5fgrrg44g4g4h4.blogspot.al
 5fgrrg44g4g4h4.blogspot.com
-5fhfrg3f3f2f3.blogspot.ca
 5fhfrg3f3f2f3.blogspot.co.id
 5fhfrg3f3f2f3.blogspot.co.nz
-5fhfrg3f3f2f3.blogspot.com
-5fhfrg3f3f2f3.blogspot.com.ar
 5fhfrg3f3f2f3.blogspot.com.br
 5fhfrg3f3f2f3.blogspot.com.by
-5fhfrg3f3f2f3.blogspot.com.es
-5fhfrg3f3f2f3.blogspot.cz
 5fhfrg3f3f2f3.blogspot.de
-5fhfrg3f3f2f3.blogspot.kr
 5fhfrg3f3f2f3.blogspot.lt
 5fhfrg3f3f2f3.blogspot.nl
 5fhfrg3f3f2f3.blogspot.no
 5fhfrg3f3f2f3.blogspot.qa
-5fhfrg3f3f2f3.blogspot.se
 5fhfrhrg3eg3g3g3g3d.blogspot.ae
 5fhfrhrg3eg3g3g3g3d.blogspot.com
 5fhgjythrh4g4g4g.blogspot.com
@@ -12560,7 +12365,6 @@
 5gfgd3ff3f3f.blogspot.com
 5gfgdgf3d2d2d.blogspot.com
 5gfgef32d2d.blogspot.com
-5gfgfg54hg5h.blogspot.com
 5gfgfgdf3d2d2g.blogspot.com
 5gfgfgfg4g4g.blogspot.com
 5gfgfgfgdgef3f3g3.blogspot.com
@@ -12583,7 +12387,6 @@
 5gfgfgfgfg4g4gh4.blogspot.dk
 5gfgfgfgfg4g4gh4.blogspot.fi
 5gfgfgfgfg4g4gh4.blogspot.gr
-5gfgfgfgfg4g4gh4.blogspot.hk
 5gfgfgfgfg4g4gh4.blogspot.hu
 5gfgfgfgfg4g4gh4.blogspot.in
 5gfgfgfgfg4g4gh4.blogspot.is
@@ -12595,9 +12398,7 @@
 5gfgfgfgfg4g4gh4.blogspot.mk
 5gfgfgfgfg4g4gh4.blogspot.nl
 5gfgfgfgfg4g4gh4.blogspot.pt
-5gfgfgfgfg4g4gh4.blogspot.qa
 5gfgfgfgfg4g4gh4.blogspot.ro
-5gfgfgfgfg4g4gh4.blogspot.rs
 5gfgfgfgfg4g4gh4.blogspot.ru
 5gfgfgfgfg4g4gh4.blogspot.se
 5gfgfgfgfg4g4gh4.blogspot.sg
@@ -12619,14 +12420,11 @@
 5gfhfg4g4g3f.blogspot.com.cy
 5gfhfg4g4g3f.blogspot.lt
 5gfhfg4g4g3f.blogspot.md
-5gfhfgegeg3f3f3f3.blogspot.ba
 5gfhfgegeg3f3f3f3.blogspot.co.id
-5gfhfgegeg3f3f3f3.blogspot.co.za
 5gfhfgegeg3f3f3f3.blogspot.com.ee
 5gfhfgegeg3f3f3f3.blogspot.lt
 5gfhfgegeg3f3f3f3.blogspot.md
 5gfhfgegeg3f3f3f3.blogspot.pe
-5gfhfgegeg3f3f3f3.blogspot.qa
 5gfhfgegeg3f3f3f3.blogspot.rs
 5gfhfgegeg3f3f3f3.blogspot.sn
 5gfhfgegeg3f3f3f3.blogspot.ug
@@ -12664,13 +12462,11 @@
 5ggfhfgrg3f3f.blogspot.com.tr
 5ggfhfgrg3f3f.blogspot.lu
 5ggfhfgrg3f3f.blogspot.ug
-5ggfhghghg4g4.blogspot.com
 5ggfhghghg4g4.blogspot.com.by
 5gggrergg4g3g44g.blogspot.com
 5gghgh6j6.blogspot.com
 5gghjghh43ffg34.blogspot.com
 5ghdhg3g32f22g.blogspot.com
-5ghfehg43f3.blogspot.com
 5ghffgdvdgdgeff3g33.blogspot.com
 5ghffgrrf3f2f2f.blogspot.com
 5ghfg4f3f3g3g.blogspot.com
@@ -12683,7 +12479,6 @@
 5ghfhfgef3f3f4h.blogspot.sn
 5ghfhh4g4g4h.blogspot.co.nz
 5ghfhh4g4g4h.blogspot.com
-5ghfhh4g4g4h.blogspot.com.br
 5ghfhh4g4g4h.blogspot.com.mt
 5ghfhh4g4g4h.blogspot.com.tr
 5ghfhjreg3g33gh.blogspot.com
@@ -12692,13 +12487,11 @@
 5ghfhrgf3f3d2.blogspot.co.ke
 5ghfhrgf3f3d2.blogspot.com.by
 5ghfhrgf3f3d2.blogspot.com.eg
-5ghfhrgf3f3d2.blogspot.com.uy
 5ghfhrgf3f3d2.blogspot.rs
 5ghfhrhg3g33f3.blogspot.com
 5ghfhrhg3g33f3.blogspot.mk
 5ghfhrhg3g33f3.blogspot.sn
 5ghfhrhreehg3g3g.blogspot.com
-5ghfrgegeg3g3g.blogspot.com
 5ghgfg4g4g4g4g.blogspot.ba
 5ghgfg4g4g4g4g.blogspot.co.uk
 5ghgfg4g4g4g4g.blogspot.com
@@ -12718,14 +12511,11 @@
 5ghgh5h5.blogspot.com
 5ghgh5h5h.blogspot.com
 5ghgh6j6jfhg.blogspot.com
-5ghghghh54h.blogspot.am
 5ghghghh54h.blogspot.bg
 5ghghghh54h.blogspot.co.za
 5ghghghh54h.blogspot.com
 5ghghghh54h.blogspot.com.mt
 5ghghghh54h.blogspot.com.ng
-5ghghghh54h.blogspot.mk
-5ghghghh54h.blogspot.pt
 5ghghghh54h.blogspot.tw
 5ghghjgth5g4t.blogspot.com
 5ghghjgth5g4t.blogspot.mk
@@ -12754,7 +12544,6 @@
 5ghgjgh4g4g33.blogspot.cz
 5ghgjgh4g4g33.blogspot.fr
 5ghgjgh4g4g33.blogspot.gr
-5ghgjgh4g4g33.blogspot.hr
 5ghgjgh4g4g33.blogspot.hu
 5ghgjgh4g4g33.blogspot.ie
 5ghgjgh4g4g33.blogspot.is
@@ -12764,14 +12553,12 @@
 5ghgjgh4g4g33.blogspot.mk
 5ghgjgh4g4g33.blogspot.mx
 5ghgjgh4g4g33.blogspot.my
-5ghgjgh4g4g33.blogspot.nl
 5ghgjgh4g4g33.blogspot.pt
 5ghgjgh4g4g33.blogspot.qa
 5ghgjgh4g4g33.blogspot.rs
 5ghgjgh4g4g33.blogspot.sk
 5ghgjgh4g4g33.blogspot.sn
 5ghgjgh4g4g33.blogspot.tw
-5ghgjgh4g4g33.blogspot.ug
 5ghgjghrg3gf3f3.blogspot.com
 5ghgjghrhrgrg3f3.blogspot.com
 5ghgjhg2frg.blogspot.com
@@ -12791,7 +12578,6 @@
 5ghgjhjjh5h44.blogspot.ro
 5ghgjhjjh5h44.blogspot.tw
 5ghgjhjth4g33.blogspot.com
-5ghgjhjth4g33.blogspot.com.ar
 5ghgjhjthg3f3f.blogspot.al
 5ghgjhjthg3f3f.blogspot.ba
 5ghgjhjthg3f3f.blogspot.com
@@ -12817,7 +12603,6 @@
 5ghhjhjyh5g4g4.blogspot.com
 5ghhjjhgh4g33ff.blogspot.com
 5ghhjyth4eg3f3g.blogspot.al
-5ghhjyth4eg3f3g.blogspot.ba
 5ghhjyth4eg3f3g.blogspot.com
 5ghhjyth4eg3f3g.blogspot.com.ar
 5ghhjyth4eg3f3g.blogspot.com.au
@@ -12826,7 +12611,6 @@
 5ghhjyth4eg3f3g.blogspot.fr
 5ghhjyth4eg3f3g.blogspot.hu
 5ghhjyth4eg3f3g.blogspot.ie
-5ghhjyth4eg3f3g.blogspot.in
 5ghhjyth4eg3f3g.blogspot.kr
 5ghhjyth4eg3f3g.blogspot.mx
 5ghhjyth4eg3f3g.blogspot.no
@@ -12850,19 +12634,13 @@
 5ghhrhg333fg3.blogspot.com
 5ghhrhg333fg3.blogspot.com.by
 5ghhrhg333fg3.blogspot.com.cy
-5ghhrhg333fg3.blogspot.com.ee
 5ghhrhg333fg3.blogspot.com.eg
 5ghhrhg333fg3.blogspot.com.mt
 5ghhrhg333fg3.blogspot.li
 5ghhrhg333fg3.blogspot.lt
 5ghhrhg333fg3.blogspot.lu
-5ghhrhg333fg3.blogspot.md
-5ghhrhg333fg3.blogspot.mk
-5ghhrhg333fg3.blogspot.my
-5ghhrhg333fg3.blogspot.qa
 5ghhrhrf3f3g4g4.blogspot.com
 5ghhrhrf3f3g4g4.blogspot.com.mt
-5ghhrhrf3f3g4g4.blogspot.mk
 5ghhrhrf3f3g4g4.blogspot.sn
 5ghjghg4g3fg.blogspot.com
 5ghjgjth454g4g.blogspot.com
@@ -12892,20 +12670,15 @@
 5gjhjhhggr3f3.blogspot.com
 5gjhjhj6h5hj.blogspot.com
 5gjhjjthg4g4g4.blogspot.com
-5gjjyhthrg4g4g.blogspot.mk
 5gjjyhthrg4g4g.blogspot.sn
 5gjtjgwff2f2f22f.blogspot.am
 5gjtjgwff2f2f22f.blogspot.ba
-5gjtjgwff2f2f22f.blogspot.bg
 5gjtjgwff2f2f22f.blogspot.ch
-5gjtjgwff2f2f22f.blogspot.cl
 5gjtjgwff2f2f22f.blogspot.co.za
-5gjtjgwff2f2f22f.blogspot.com
 5gjtjgwff2f2f22f.blogspot.com.by
 5gjtjgwff2f2f22f.blogspot.com.co
 5gjtjgwff2f2f22f.blogspot.com.ee
 5gjtjgwff2f2f22f.blogspot.com.ng
-5gjtjgwff2f2f22f.blogspot.com.uy
 5gjtjgwff2f2f22f.blogspot.hr
 5gjtjgwff2f2f22f.blogspot.is
 5gjtjgwff2f2f22f.blogspot.li
@@ -12914,9 +12687,7 @@
 5gjtjgwff2f2f22f.blogspot.pe
 5gjtjgwff2f2f22f.blogspot.qa
 5gjtjgwff2f2f22f.blogspot.rs
-5gjtjgwff2f2f22f.blogspot.sn
 5gjtjgwff2f2f22f.blogspot.tw
-5gjtjgwff2f2f22f.blogspot.ug
 5gjyjyjhrhrg4ff3f.blogspot.com
 5gmobilepath.com
 5gmobilestore.fr
@@ -12929,10 +12700,7 @@
 5h.jeansbestlawnservice.com
 5h3oyhv838.com
 5h7370j8.cn
-5hfghghfgd3f3f.blogspot.com
 5hfgrg3f3f2d2.blogspot.com
-5hgghfhrg4g34g4.blogspot.com
-5hgjgjhhrg4g4g4h.blogspot.mk
 5hgjhjhjth4ge.blogspot.com
 5hgjjyh5g4gf.blogspot.com
 5hhtu4.s3.us-west-000.backblazeb2.com
@@ -13039,7 +12807,6 @@
 5rffghjj5g33g4j.blogspot.com
 5rfgff3f3d32f2f.blogspot.am
 5rfgff3f3d32f2f.blogspot.com
-5rfgff3f3d32f2f.blogspot.com.co
 5rfgff3f3d32f2f.blogspot.com.eg
 5rfgff3f3d32f2f.blogspot.com.tr
 5rfgff3f3d32f2f.blogspot.pe
@@ -13097,11 +12864,9 @@
 5tgfhyjhjyhyjh4g3.blogspot.com.co
 5tgfhyjhjyhyjh4g3.blogspot.com.cy
 5tgghjghhrh4h4.blogspot.com
-5tghfrg4g3gg.blogspot.com
 5tghghhfh4g33.blogspot.com
 5tghgjhrg3f3f3f.blogspot.com
 5tghgjhrg3f3f3f.blogspot.com.au
-5tghgjhrg3f3f3f.blogspot.de
 5tghgjhrg3f3f3f.blogspot.dk
 5tghgjhrg3f3f3f.blogspot.pe
 5tghgjhrg3f3f3f.blogspot.ru
@@ -13117,7 +12882,6 @@
 5tghjhjyth5g4g44h.blogspot.com.eg
 5tghjhjyth5g4g44h.blogspot.com.ng
 5tghjhjyth5g4g44h.blogspot.is
-5tghjhjyth5g4g44h.blogspot.lu
 5tghjhjyth5g4g44h.blogspot.md
 5tghjhjyth5g4g44h.blogspot.mk
 5tghjhjyth5g4g44h.blogspot.si
@@ -13309,6 +13073,7 @@
 60aalexandrastreetcom.domainstel.org
 60b4f834899e7bc0af3dbd7f93d50544-dot-gle9392420309493993.rj.r.appspot.com
 60bf7dda6574622f38f9c628--peaceful-euclid-be1239.netlify.app
+60ce55878b.62c013248b.com
 60cf9eb31131d30fef8049740b5f1453.top
 60cyr.codesandbox.io
 60d24778.006300.cn
@@ -13486,7 +13251,6 @@
 625424.selcdn.ru
 625e68f63ffd6.site123.me
 62627676bb.weebly.com
-6262abhishek.github.io
 6262iq.com
 626308-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 626351898-reviewpage.pages.dev
@@ -13568,7 +13332,6 @@
 6345745xhgxcvbosu.redirectme.net
 634710.selcdn.ru
 63498a20.sibforms.com
-634mailernap.godaddysites.com
 635028.selcdn.ru
 635080.playcode.io
 6351798-dot-phonic-obelisk-274214.uk.r.appspot.com
@@ -13787,8 +13550,6 @@
 654596.pages.dev
 6546498-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 654654635413pj.duckdns.org
-65465oijh.un389.com
-65465psdgfdf.uv653.com
 6546785465.weebly.com
 654698568475info3547388.com
 6546wqtredft.ub604.com
@@ -13867,7 +13628,6 @@
 65f96microsoft0a65f96account.yolasite.com
 65fed2983840cafebfd9adff--monumental-raindrop-0416ba.netlify.app
 65gfgfgfgfg4g4g.blogspot.ae
-65gfgfgfgfg4g4g.blogspot.ba
 65gfgfgfgfg4g4g.blogspot.be
 65gfgfgfgfg4g4g.blogspot.bg
 65gfgfgfgfg4g4g.blogspot.co.at
@@ -13880,7 +13640,6 @@
 65gfgfgfgfg4g4g.blogspot.com.tr
 65gfgfgfgfg4g4g.blogspot.in
 65gfgfgfgfg4g4g.blogspot.is
-65gfgfgfgfg4g4g.blogspot.my
 65gfgfgfgfg4g4g.blogspot.nl
 65gfgfgfgfg4g4g.blogspot.ru
 65gfgfgfgfg4g4g.blogspot.sg
@@ -14099,6 +13858,7 @@
 6680i.xyz
 6680j.xyz
 668510.selcdn.ru
+668563.cc
 6685f71c48bdb3366e4071b1--scintillating-valkyrie-6caf19.netlify.app
 6686047afee19248b4a9b520--imaginative-lebkuchen-d74e3f.netlify.app
 66869475365.com
@@ -14490,6 +14250,7 @@
 6e391732a2.com
 6e4hn.csb.app
 6e59f354a632.ngrok.io
+6e6cd153a6.com
 6e76109faf4c.simbla-sites.com
 6e76e4803d.com
 6e88ab73-cbed-4523-9667-668cb9b2977b-00-1096hr8efeto2.kirk.replit.dev
@@ -14536,7 +14297,6 @@
 6ffb379d2b3e713fcde989c5f320f157-dot-gle9392420309493993.rj.r.appspot.com
 6fgfgfg4gf3h.blogspot.com
 6fgfgfgrfg4g.blogspot.al
-6fgfgfgrfg4g.blogspot.com
 6fgfgfgrfg4g.blogspot.li
 6fgfgfgrfg4g.blogspot.pe
 6fgfgfgrfg4g.blogspot.ug
@@ -14711,7 +14471,6 @@
 6y64j-fyaaa-aaaan-qcreq-cai.raw.ic0.app
 6yclm-xqaaa-aaaam-abcyq-cai.raw.ic0.app
 6ye.com.cn
-6yghgfgrgg3.blogspot.com
 6yhk.pages.dev
 6z96z4mk84dc.live
 6zhewang.com
@@ -14887,7 +14646,6 @@
 72bebce6-3006-401c-8a9d-7435058635d8-00-2t37o0e7t0qlf.riker.replit.dev
 72c3d44e4d.4632c60a96.com
 72d6526e68.8e323e599c.com
-72f8123706b6.godaddysites.com
 72gmail.com
 72hdgb5o.de
 72menit-grupvrall.duckdns.org
@@ -14920,7 +14678,6 @@
 73611udhe123.weebly.com
 736218687342536540.weebly.com
 7365002.app
-7365004.app
 7365006.app
 7365007.app
 7365008.com
@@ -14964,6 +14721,7 @@
 73cceb63-7ecd-45e2-9eab-f8d98aab177f.usrfiles.com
 73d8a3a315.mywebsites360.com
 73eb3p8a.duckdns.org
+73fd98f528.897300f105.com
 73gmail.com
 73hvig.freewb.hu
 73m.bba.myftpupload.com
@@ -14975,6 +14733,7 @@
 740931-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 740c7629.shtianxing.com.cn
 7411603f57.com
+741230.cc
 741236.com
 74136-95ec6b.ingress-bonde.ewp.live
 74195462-f65a-4a10-85e4-f3ba0510bd11.htmlpasta.com
@@ -15040,9 +14799,7 @@
 750723.selcdn.ru
 750v4.pages.dev
 751119.com
-751231.cc
 751b9bc4-1098-4273-be36-d773a269c4c5-00-h6t0fk18rg7u.sisko.replit.dev
-752202.cc
 752646-dot-river-direction-289114.appspot.com
 752fe978.603ce8686ef4ed6a34b057f5.workers.dev
 7530518915281032.jamb2022.co
@@ -15192,6 +14949,7 @@
 770hdt.paintingcompany.co.nz
 770tree.com
 77163090188006048461479.jamb2022.co
+7719094ddf.com
 772268.com
 77276.com
 772773a.com
@@ -15246,7 +15004,6 @@
 777wpsolutionseommpssolutionscobwwpfloinclu6673uhedjujs383.weebly.com
 777zz777zz.com
 778669.com
-778981.com
 778attmailingaddresses639023aottmailaddresses639023ewqs79.weebly.com
 778tyfcvvc.weebly.com
 7794.com
@@ -15379,7 +15136,6 @@
 792242debd5b6.yolasite.com
 792637-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 792749976985480-dot-wetransfer-auth-file-344.appspot.com
-7932krishraninga.github.io
 7933083-9366350-dot-bles05.wn.r.appspot.com
 793593-3003wr-334.s3.us-east-2.amazonaws.com
 79381928379-reviewpage.pages.dev
@@ -15464,6 +15220,7 @@
 7bd9a61155.com
 7bdba52bf6ed72cb8cc5c84b5b1e24ae-dot-gle9392420309493993.rj.r.appspot.com
 7bdh0ixc6faz86q4qaxb.vercel.app
+7becb5e8a6.494c47a0f2.com
 7bet938.com
 7bet988.com
 7bjeyc.shop
@@ -15513,6 +15270,7 @@
 7cq7kf.csb.app
 7ctbs99x.jimdofree.com
 7cvfr2.duckdns.org
+7d04b01f44.a3517b4a5f.com
 7d0f6f39-9c057d0f6f39-9c057d0f6f39-9c057d0f6f39-9c057d0f6f39.sgp1.digitaloceanspaces.com
 7d0hxbuccvib.munty.co
 7d308161-f5a6-4259-90a9-d5fe3b167363.htmlcomponentservice.com
@@ -15548,6 +15306,7 @@
 7e1c41610853974ee7076e5dabfc7429d4d2145b5f216b816085775c06.pages.dev
 7e33dda727cdc9.lhr.life
 7e4a6fbed2.b14e96118f.com
+7e4bb44dd2.b1158965a8.com
 7e5127c5.buildingplans.pages.dev
 7e52b3b0ab95.duckdns.org
 7e52bb0df7.c5ab629aba.com
@@ -15589,7 +15348,6 @@
 7fe9f454.yongwang888.com.cn
 7fipan0ccy9et2zg.ocalam.com
 7fkm2r4pzi.com
-7fr349of.duckdns.org
 7fva8algp45k.com
 7fxwr-raaaa-aaaad-qd7oq-cai.raw.ic0.app
 7g00ger2jm9vtq6q67l298oiec348gcsqgejkg8ugcno8v9pis37c5o.siasky.net
@@ -15703,7 +15461,6 @@
 7rtrnr7dfkj.jimdofree.com
 7rtv.com
 7s1oyx3edu.s3.us-south.objectstorage.softlayer.net
-7s1w56s.duckdns.org
 7seeo5fxg5-qebcobk.loginform.net
 7sessions.info
 7sew9ktl.appbotbrand.com
@@ -15873,9 +15630,7 @@
 812928786558625.graficaaoquadrado.com.br
 812qf.visualook.com
 8131.qizhihaotian.cn
-8131889.com
 81365365.com
-813663.com
 813777360494259205386681-2973654876360148815537579.glitch.me
 814106.selcdn.ru
 81438456aa.com
@@ -15959,6 +15714,7 @@
 8272828.blogspot.com
 827706784c2e85359315a8d1d019ebc5-dot-gle9392420309493993.rj.r.appspot.com
 828239sam.com
+828258.cc
 828af6b8ce.com
 82919210.blogspot.com
 82920935978390920191003t225454-dot-wetransfer-auth-file7781.appspot.com
@@ -16147,6 +15903,7 @@
 859524.xyz
 859a4d359d.8a22a70945.com
 859e29-a3.myshopify.com
+85a90880b9.com
 85aa48a97855.readgovip.workers.dev
 85bc6ad4b4403ea21816645f8a7d40ce-dot-gle9392420309493993.rj.r.appspot.com
 85e945c1dba594d3e9c6cf610245929b-dot-gle9392420309493993.rj.r.appspot.com
@@ -16194,7 +15951,6 @@
 86739-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
 867gd2d3iffcx-h0rmyy29-ocean741.4everland.app
 8685092-19258-dot-bles05.wn.r.appspot.com
-8686868634234gdfgd.blogspot.sn
 8686868sharefile.weebly.com
 868e9a16.ngrok.io
 869476503365.com
@@ -16374,7 +16130,6 @@
 888xx222kk.com
 888zun.net
 88917933782242015160597.jamb2022.co
-889530.cc
 889582.com
 88993aaa.com
 889cyan.wixsite.com
@@ -16744,7 +16499,6 @@
 8o8pbq.csb.app
 8o9m.cn
 8okjm.pages.dev
-8olu.3e6n5a6m.xyz
 8otn4g.vrautopilot.com
 8ox.cn
 8pca5n0lwk.4629.kasgizlivadi.com
@@ -16942,6 +16696,7 @@
 90zingue.blogspot.sn
 91.51rmc.com
 9100504-dot-n-e-w-me-ss-age-po-rt-al.wl.r.appspot.com
+910391-coinbase.com
 910467717a2701391.temporary.link
 910de7044f.com
 911-beauty.com
@@ -16966,6 +16721,7 @@
 9130ec9212.com
 91320b58a585d8c59033e37bbabb979c-dot-gle9392420309493993.rj.r.appspot.com
 9135fec6cb.f026a8e109.com
+914326-coinbase.com
 915.com
 915.dtdjf147852.workers.dev
 915c63962f.com
@@ -17051,6 +16807,8 @@
 92c04d81dd.com
 92c178d4-a37c-44a6-8dc8-f2ce2a591df3.usrfiles.com
 92c26fc3.adorn-insight.co.uk
+92e6136b5d.com
+92e703f830.com
 92ideas.com
 92publishers.com.pk
 92x.tumblr.com
@@ -17058,6 +16816,7 @@
 930097.cc
 9304hhh999.vip
 9307fa5b8733132f3840fc9bb5ce699b-dot-gle9392420309493993.rj.r.appspot.com
+930b8e7ee2.d4d95d3743.com
 930solutionscobwwpincludes-splashcropatt-mailingauto.weebly.com
 93151721113-dot-oppaiwiuwe.rj.r.appspot.com
 93184.com
@@ -17135,6 +16894,7 @@
 945cs.945.report
 945cs.aplatoo.com
 9463a624aaca.godaddysites.com
+946503.cc
 946541.pages.dev
 9473281.securefastserver.com
 947365.xyz
@@ -17162,7 +16922,6 @@
 94c57f7efd0c363894be8d8c7b6284ca-dot-gle9392420309493993.rj.r.appspot.com
 94cdn.com
 94e9-2804-29c4-139-9900-4127-54eb-30c6-3b5b.ngrok-free.app
-94edwin89.github.io
 94i.37c.mytemp.website
 94lm.com
 94snowmeprona.ru.com
@@ -17266,6 +17025,7 @@
 9700hg.com
 97010046.mliv.sa.com
 970371217971145-dot-ifile-document.appspot.com
+970824fa47.com
 9708fec87cae447aef027e7c338ac64f-dot-gle9392420309493993.rj.r.appspot.com
 970da4d982e267fe376d61eaa5ec240f-dot-spow3039.df.r.appspot.com
 971.ym19710.workers.dev
@@ -17347,7 +17107,6 @@
 98250255358142282072501172986.zenslim.ru
 9825057365.com
 9827ea8c622615999.tempsite.link
-9828rohitkamble.github.io
 982cn.todipap.com
 982higruaha39f.vercel.app
 9831588331-kiomeacbbexx-98316607-cuomeiance-022humacghex.pages.dev
@@ -17970,7 +17729,6 @@ a.babezunknown.com
 a.baidinet.com
 a.baidu.com
 a.baiy.net
-a.baomihua.com
 a.bdsmz.tube
 a.bestcontentnetwork.top
 a.bf-tools.net
@@ -18142,6 +17900,7 @@ a.tiyuxiu.com
 a.tlineat.jp
 a.tn.token-ad.com
 a.traffic-gold.com
+a.trkpop.click
 a.ttinline.com
 a.turbodsp.com
 a.tvsou.com
@@ -18184,7 +17943,6 @@ a.yellowurl.cn
 a.yixie8.com
 a.youdao.com
 a.zdg.de
-a.zillastream.com
 a.ztulcrynw.online
 a.zxcvads.com
 a0.raidrush.org
@@ -19166,6 +18924,7 @@ a0999740.xsph.ru
 a0b11.com
 a0b22.com
 a0b33.com
+a0b8b4e910.b10ca28321.com
 a0bbdeccb1a0c5ebe68aa23bd1966ef5.s3.amazonaws.com
 a0bdddce.lgtbd.com
 a0c00.com
@@ -19182,7 +18941,6 @@ a0fcu.myftp.biz
 a0ga.byethost24.com
 a0i-105425.square.site
 a0l.mem-bers.workers.dev
-a0l11.godaddysites.com
 a0l61.godaddysites.com
 a0la0l.weebly.com
 a0leriz0n.weebly.com
@@ -19311,12 +19069,14 @@ a1767.g.akamai.net
 a17rrr1.oss-cn-hongkong.aliyuncs.com
 a18.nbdsnb2.top
 a18.yydsnb1.top
+a18cc6054ce4f3b0fb572ef0cdbc3191.ipfs.4everland.link
 a18qqq1.oss-cn-hongkong.aliyuncs.com
 a19.g.akamai.net
 a19ccc1.oss-cn-hongkong.aliyuncs.com
 a1bizportal.com
 a1c99093b6.com
 a1match.dk
+a1ri.4cloud.click
 a1sec.com.au
 a1tai7.jp
 a1w5xfjqmsqg.live
@@ -19380,6 +19140,7 @@ a460.cell.phone.ringtone.samsung.sms13.de
 a48.info
 a48d53647a.com
 a4ckwd.postal.gameplansession.com
+a4f074a2f8.com
 a4mt150303tl.com
 a4obeg.onl.onlinetrees.co.uk
 a4rphu.hbg.hebdenbridgedental.co.uk
@@ -19482,6 +19243,7 @@ aa.jiankang.com
 aa.pornvideotop.com
 aa.yukklzwo.vip
 aa0ab.com
+aa682509b0.f11631d24c.com
 aa7514796b.224e37d1ce.com
 aa9q.cn
 aa9u.cn
@@ -19591,6 +19353,7 @@ aaucwbe.com
 aaukqiooaseseuke.org
 aav3.dyndns.tv
 aavc.com
+aaveclaim.pages.dev
 aawdlvr.com
 aax.amazon-adsystem.amazon.com
 aax6.com
@@ -19875,6 +19638,7 @@ abosc.com.br
 abother.org
 aboundplausibleeloquent.com
 about-adult.net
+about-violation-info.surge.sh
 aboutads.info
 aboutads.quantcast.com
 aboutbrains.com
@@ -20145,6 +19909,7 @@ acces-particuliers.fr
 acces-referencement.fr
 acces-renouvellement.fr
 acces.streaming-direct.co
+accesoathe244micr.glitch.me
 accesoriaintegral.com.mx
 accesoriosmarinos.com
 access-mc.com
@@ -20238,6 +20003,7 @@ accountablitypartner.com
 accountantamsterdam.net
 accountantflowerrespiration.com
 accountantpacketassail.com
+accountbuyer.pro
 accountemporium.com
 accountfb081.webnode.com
 accountfluid.com
@@ -20252,6 +20018,7 @@ accountingschool.live
 accountingservices.fr
 accountingtoindia.com
 accountresponsesergeant.com
+accountreviewclaimnotice.vercel.app
 accounts-app1eid.authentyverifl.com
 accounts-cp85.webprestashop.com
 accounts-dot-devsnapchat.appspot.com
@@ -24581,7 +24348,6 @@ advanced-ip-scanz.com
 advanced-lp-saanel.com
 advanced-lp-saaner.com
 advanced-lp-scanel.com
-advancedadvertisingseting-fb.com
 advancedcleaner.com
 advancedcorretora.com
 advancedetective.com
@@ -24824,7 +24590,6 @@ advocaciadescomplicada.com.br
 advocacyablaze.com
 advocacyforgiveness.com
 advocate420.fun
-advocatechauhanbs.com
 advod.sbs.co.kr
 advokat-med.in.ua
 advokatcw.no
@@ -25022,7 +24787,6 @@ aebay.fr
 aeblrkyvqmk.com
 aecotimes.com
 aecpm.alicdn.com
-aecuzicmd.com
 aedi.ai
 aedoctor.com
 aee4e77dc5.com
@@ -25491,12 +25255,10 @@ agent-dgsi.fr
 agent.56.com
 agent.tamedia.com.tw
 agent.wizztrakys.com
-agent786ok.github.io
 agentanalytics.com
 agentbankug.com
 agentinstall.fleetdeck.io
 agentogel.info
-agenttesla.com
 agentweakermental.com
 agenziagranzotto.it
 ageo1xxpnwherodigitaltraining.112.2o7.net
@@ -25551,7 +25313,6 @@ aglocobanners.com
 agloogly.com
 aglowpanion.top
 aglurj.com
-aglvtwawyzaa.com
 agmsnag.112.2o7.net
 agmtrk.com
 agn.aty.snmsohu.aisee.tv
@@ -25761,7 +25522,6 @@ aicactus.io
 aickeebsi.com
 aiclean.us.cloud.360safe.com
 aiclk.com
-aidaicn.com
 aidata.io
 aidbd.org
 aide-acheminement-info.com
@@ -25865,7 +25625,6 @@ aiode.cn
 aionfoundation.com
 aious.net.au
 aipankart.com
-aipefgbmgbndswc.cn
 aipofeem.net
 aipoweredadvisors.com
 aipp-italia.it
@@ -25902,6 +25661,7 @@ airdilute.com
 airdoamoord.com
 airdrop-coinbase.com
 airdrop-sel.io
+airdrop.ct.ws
 airdrops.promo
 airdropsaltlayer.pages.dev
 airdropseth.com
@@ -26206,7 +25966,6 @@ al-adtech.com
 al-enayah.com
 al-hilal.com.pk
 al-muslimgroup.com
-al-rasikh.com
 al-sharqgroup.com
 al-smetrics.vizio.com
 al-tayar.com
@@ -26380,7 +26139,6 @@ alexine.net
 alexisbeaming.com
 alexisceilingrelease.com
 alexlaz.com
-alexpay2.beget.tech
 alexrubalcava.com
 alexxe.com
 alexysexy.com
@@ -26630,8 +26388,6 @@ allegrocn.shop
 allegrocns.com
 allegrocolombia.com
 allegrogroup.co.uk
-allegrolokalnie.kategorie-proponowane-781.buzz
-allegrolokalnie.pl-gnudsngiusdniugnsd.icu
 allegroshop.shop
 allegrostore.cc
 allegrostu.com
@@ -26927,6 +26683,7 @@ alrightkindergarten.com
 alrightlemonredress.com
 als-svc.nytimes.com
 als.baidu.com
+als1510.github.io
 alsadatproperty.com
 alsalam1.com
 alsdebaticalfelixsto.org
@@ -27039,7 +26796,6 @@ alupdatelinrteam.weebly.com
 aluteksa.com
 alvaactivewear.com
 alvaritox.con-ip.com
-alvaroandino.github.io
 alvisit.com
 alwasluae.net
 alwatania-co.com
@@ -27053,6 +26809,7 @@ alwayswheatconference.com
 alwhichhereal.com
 alwhichhereallyw.com
 alwingulla.com
+alwpmsyehdjfg.weebly.com
 alxfgnews.pro
 alxsite.com
 alxyx.com
@@ -27068,7 +26825,6 @@ am-stachlhof.de
 am-trc-events.taboola.com
 am.g.ireader.com
 am.szhome.com
-am.tink66.com
 am.yahoo.co.jp
 am10.ru
 am11.ru
@@ -27076,7 +26832,6 @@ am15.net
 am26677.com
 ama-alliance.com
 ama529.ru
-amaacc67.beget.tech
 amaarhomes.ca
 amadernewsbd.com
 amadeusduo.de
@@ -27320,8 +27075,8 @@ americanbaby.112.2o7.net
 americanblinds.com.122.2o7.net
 americandefense.ltd
 americaneskimopuppiesforsale.com
-americanexpress-however.vlggn.cn
-americanexpress-scrup.dkjpu.cn
+americanexpress-leucish.odriq.cn
+americanexpress-mordly.eylxy.cn
 americanexpress.122.2o7.net
 americanexpross.com
 americanfriendsofreuth.org
@@ -27369,7 +27124,6 @@ amiceadsl.fr
 amiclubwearcoupon.co.cc
 amidabuli.com
 amidbow.com
-amidoxypochard.com
 amigoexpress.com.br
 amigosdetuciudad.com
 amihe.com
@@ -28714,7 +28468,6 @@ anthemmutevenison.com
 anthemportalcommence.com
 anthill.vn
 anthonyconsiglio.com
-anthonysiow.com
 anthonystrategiesgroup.com
 anti-adblock.herokuapp.com
 anti-automation-v3.b-cdn.net
@@ -28827,6 +28580,7 @@ any2st777fhy.com
 anyaikyaeifcprlcrof.com
 anybodyproper.com
 anybodysentimentcircumvent.com
+anycast.ludea-lau.workers.dev
 anydebrid.com
 anydeskupdate.com
 anydigresscanyon.com
@@ -28888,7 +28642,6 @@ aolcamember.122.2o7.net
 aolcareers.122.2o7.net
 aolcg.122.2o7.net
 aolcmp.122.2o7.net
-aolcomm1.weebly.com
 aolcommem.122.2o7.net
 aolcommvid.122.2o7.net
 aolcsmen.122.2o7.net
@@ -29024,7 +28777,6 @@ ape.pytch.co.uk
 ape.saadsvoterguide.org
 ape.smartplanschema.se
 apeidol.com
-apeljax1.wixstudio.com
 apeng.club
 apenologia.pt
 apenzel.com
@@ -29448,6 +29200,7 @@ app.aplus.pptv.com
 app.ardalio.com
 app.bugsnag.com
 app.calag.at
+app.chatonline.us
 app.converdiant.com
 app.crossengage.io
 app.cumpar-auto-orice-tip.ro
@@ -29615,7 +29368,6 @@ app2ads.com
 app2up.info
 app4.letitbefaster.website
 app4u.today
-appads.com
 appads.in
 appannie.com
 appapplejklsecure.serveirc.com
@@ -29934,7 +29686,6 @@ apps5.oingo.com
 appsanalytics.appideas.it
 appsandgraphics.com
 appscase.com
-appschip.com
 appscracker.com
 appscriptduck.com
 appscriptshark.com
@@ -29962,6 +29713,7 @@ appstore.ptmi.gitv.tv
 appstreport742.ddnsking.com
 appsupdate.sinaapp.com
 appsyoga.com
+apptech.be
 apptera.com
 apptjmp.com
 apptopup.com
@@ -30318,6 +30070,7 @@ arieldon.linkpc.net
 aries.mzres.com
 arigami.ru
 arimidextab.com
+arindam2802.github.io
 arinidentalcare.com
 arioiundated.com
 aripaadee.hit.gemius.pl
@@ -30517,6 +30270,7 @@ articoamerican.com.br
 articulatefootwearmumble.com
 artieri.ro
 artificialvagina.info
+artinstagram.com
 artisticasrl.com
 artistictastesnly.info
 artistsjunction.com
@@ -30555,6 +30309,7 @@ aruba.hosting.costumer.account.eu.ngrok.io
 arubapec.wufoo.com
 arulofalk.shop
 arum.info
+arvest-login.com
 arvetellefsen.no
 arvigorothan.com
 arvitop.com
@@ -30804,7 +30559,6 @@ asjsbew.cn
 ask-gps.ru
 ask.toothlessapp.com
 ask.tulingxueyuan.cn
-askanantivirusok.live
 askaspeechie.com.au
 askayhotelsuites.com
 askbot.com
@@ -31084,7 +30838,6 @@ asteriresearch.com
 asteriskwaspish.com
 asterrakionor.com
 astersrepent.top
-astesnlyno.org
 astespurra.com
 astivysauran.com
 astkyureman.com
@@ -31167,7 +30920,6 @@ aszswyd.cn
 at-adserver.alltop.com
 at-t-admin.daftpage.com
 at-times-gmbh.de
-at-unit-formupdate.wixsite.com
 at.360.audion.fm
 at.adtech.redventures.io
 at.debianbase.de
@@ -31190,7 +30942,6 @@ atanx2.alicdn.com
 atappanic.click
 atarbiyahpulpen.online
 atardrushim.com
-ataru-loto.com
 atas.io
 atasteoftheworld.com
 atax.teamxbox.com
@@ -31215,7 +30966,6 @@ ateaudiblydriving.com
 atecoe.edu.gh
 atedlitytlement.info
 atedtrevor.guru
-ateiegrmcom.xyz
 atelier-ferforge.com
 atelier-floral.com
 atendesolucao.com
@@ -31335,7 +31085,6 @@ atonato.de
 atonementfosterchild.com
 atonementimmersedlacerate.com
 atonementwisely.com
-atordeg.com.br
 atorks.xyz
 atostrategies.com
 atotalsafety.com
@@ -31377,33 +31126,32 @@ atso.pt
 atsod.launch.liveramp.com
 atspace.tv
 atsukaa.thrivezest.org
-att-102041-108262.weeblysite.com
-att-109230-108389.weeblysite.com
-att-currently-12-19-2024.weeblysite.com
 att-domainsecurity.weebly.com
 att-login-account-verification-page.weebly.com
 att-login-communication-updating-service.weebly.com
 att-login-new-version-upgrading-mail.weebly.com
 att-login-verification-mail-updating.weebly.com
+att-mail-100767.square.site
 att-mail-account-upgrading-login-page.weebly.com
 att-mail-login-net-verification-page.weebly.com
 att-mail-login-yahoo-domain.weebly.com
 att-review-og.weebly.com
-att-tsnetmail.mmm.page
 att-yahoo-mail-net-domain-page.weebly.com
+att5676576.weebly.com
 att5h6.wixsite.com
 attacarbo.com
 attachedkneel.com
 attackware.com
+attadm977222.weebly.com
 attaindisableneedlework.com
 attaintobiit.shop
 attarpantoon.click
+attcom-107949-101349.weeblysite.com
 attcommunicationspro.com
 attconsultant.weebly.com
 attcurentlydata.weebly.com
 attcurrentlyswbell.weebly.com
 attdirectconnect.com
-atteamsas.weebly.com
 attemailcenter.com
 attemptinert.com
 attemptingstray.com
@@ -31443,7 +31191,6 @@ attloginreconditionservicemail.weebly.com
 attmailupdate.weebly.com
 attmailupdateweb.weebly.com
 attmentyd.weebly.com
-attnet-101673.weeblysite.com
 attnet-netconnnect.weebly.com
 attnetdcfvbnmxcvbnm.weebly.com
 attorchica.com
@@ -31931,6 +31678,7 @@ autryshoesfrance.fr
 autrysoldes.fr
 autsedpurgaammer.com
 auttimkxckets-facebo0k.emochila.com
+autumn-pear-pig.glitch.me
 auvergnerhonalpes.fr
 auvergnerhonealpe.fr
 auvohoxm.xyz
@@ -32038,6 +31786,7 @@ avhjzemp.com
 avhtaapxml.com
 avhxnasqeo.com
 avi-solutions.com
+aviabilet-b2b.sa.com
 aviationbe.com
 aviationchartersolutions.com
 avidenotifcation.fr
@@ -32548,6 +32297,7 @@ b1.qqjay.com
 b1.trickyrock.com
 b1.xiao84.com
 b10.justacdn.net
+b116785e75.com
 b1181fb1.site
 b12585cff0.b497444fee.com
 b13.penzainform.ru
@@ -32559,6 +32309,7 @@ b1dd039f40.com
 b1f2e1a0a9.9a7e77df71.com
 b1h0uaabzyz.life
 b2-data.ads.heytapmobi.com
+b21379380e.com
 b21be0a0c8.com
 b225.org
 b235be2c38.a38fb9d969.com
@@ -32585,7 +32336,6 @@ b3stcond1tions.com
 b3wg2.cn
 b3z29k1uxb.com
 b4-31d2.kxcdn.com
-b4.kianzmy5.sa.com
 b41732fb1b.com
 b42rracj.com
 b44625y1.bget.ru
@@ -32647,7 +32397,9 @@ ba.kioskea.net
 ba.lostdidest.com
 ba.tipitspart.com
 ba1.groupgti.com
+ba31f372b1.6d0ce9a973.com
 ba46b70722.com
+ba8bed274a.0daa70aafd.com
 ba9ee99d4f.9d9a354450.com
 baads.britishairways.com
 baal.ru
@@ -32755,7 +32507,6 @@ badding.oss-ap-southeast-1.aliyuncs.com
 badeldestarticulate.com
 badgeboat.com
 badgeclodvariable.com
-badgeficrxd.pages.dev
 badgegirdle.com
 badgeimpliedblind.com
 badger.pager.app
@@ -32786,12 +32537,12 @@ bae5e9b94d.07aa35fee9.com
 baect.com
 baeumer.be
 bafflecouriernoble.com
+bafybeiasac6j6vrtn7xnsqfksowgqfqgwteeiydmf6d46mtm5amdexy2h4.ipfs.dweb.link
 bafybeicnmx2fcaolinpdaiqjo7hgsourg3qzaxf57psdrbqic4qrm4pf3i.ipfs.dweb.link
 bafybeicoo7kwhmnl6q7prd65aimf5byzrihrklgviebm2pkyzyepdaigf4.ipfs.dweb.link
 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
 bafybeidzp4sgidm4rvsc32fofkhbz5bdotbekov4mnwzejakvnzhhohysa.ipfs.dweb.link
 bafybeiexjty7qmufu5jvbyln5ce5mue2lqw2htafc3api4wwsefxet5k54.ipfs.dweb.link
-bafybeigwiwj44spjbfed7dmvshphdkjqnowtpxaxmqdlnq2elqzqedmdmq.ipfs.dweb.link
 bafybeihxqop3q2g3f6dd6ermzqn3xg7jbtz762papo5eye2nermqothtie.ipfs.nftstorage.link
 bag.mobile.system.video.sms13.de
 bag22.ru
@@ -32904,6 +32655,7 @@ bakertangiblebehaved.com
 bakery-equipment.ru
 bakeryflowerbed.com
 bakeryunprofessional.com
+bakeryxswap.org
 bakestories.com
 bakingbeheld.com
 bakld.com
@@ -32995,6 +32747,7 @@ bambuhaliyikama.com
 bamcupsupport.sytes.net
 bameboohr.com
 bamehon.com
+bammellohauho-7557.vercel.app
 bampxqmqtlumucs.xyz
 bamsfirestonedirectprod.112.2o7.net
 bamtinseefta.xyz
@@ -33018,7 +32771,6 @@ bancoaztecaprd.112.2o7.net
 bancoaztitkecommprod.112.2o7.net
 bancoaztitkprod.112.2o7.net
 bancodecomercio.pagedemo.co
-bancolombia-virtual-22.glitch.me
 band.riskidigits.com
 bandabonga.fr
 bandaekhuda.com
@@ -33426,7 +33178,6 @@ bargeagency.com
 bargedale.com
 bargemansrest.com
 barhufpflegerin-saarland.de
-barik-ankita.github.io
 barilocheskiclass.com.ar
 barium.cheezdev.com
 barix.atwebpages.com
@@ -33695,7 +33446,6 @@ bbc12a3a98d8487f58a87d3a3070516e-dot-oa9si-od9.appspot.com
 bbc6666.com
 bbccf12.xyz
 bbcfinance.com
-bbcnews.deepseaengine.com
 bbcnewscouk.112.2o7.net
 bbcrgate.com
 bbd834il.de
@@ -33740,6 +33490,7 @@ bbuildersget.com
 bbullard.com
 bbuni.com
 bbva.112.2o7.net
+bbvanrtcash.com
 bbvdd.com
 bbxo.fr
 bbxyxt.xyz
@@ -33749,7 +33500,6 @@ bc.marfeelcache.com
 bc.nhk.jp
 bc.qushimeiti.com
 bc13945167.9cf57a043f.com
-bc2rc-admin.dev.eyeonit.solutions
 bc6dc48b743dc5d01.clicknplay.to
 bc84617c73.com
 bcaakxxuf.com
@@ -33921,6 +33671,7 @@ be-sms.com
 be.mrslove.com
 be.startdownload.mobi
 be.yourtrap.com
+be1c6e25e9.ca6d30883b.com
 be30660063.com
 bea-s.dinghuoche.com
 bea988787c.com
@@ -34103,7 +33854,6 @@ becamedevelopfailure.com
 becamesprinkle.com
 becanium.com
 becasmexico.info
-beccc1d245.com
 becharakam.ddns.net
 bechatotan.com
 beck-architekt.de
@@ -34346,7 +34096,6 @@ belights.com
 beliketheappyri.info
 beling-trier.de
 belive.managing-results.com
-beliveme6.wixsite.com
 belkinfrance.fr
 bell-02.com
 bell-03.com
@@ -34373,7 +34122,6 @@ bellglovemediapublishing.122.2o7.net
 bellissi-mode.com
 bellmandrawbar.com
 bellmetric.net
-bellmtsaa.weeblysite.com
 bellowframing.com
 bellowtabloid.com
 bellpressinginspector.com
@@ -34608,7 +34356,6 @@ best-hacks.net
 best-iphone6s.com
 best-lavish-option.glitch.me
 best-leaks.org
-best-legalattorney.live
 best-life-insurance.live
 best-lucky-cat.xyz
 best-net.biz
@@ -34821,12 +34568,10 @@ bet.122.2o7.net
 bet.championat.com
 bet365-online.fr
 bet365-ru.fr
-bet365365.app
 bet365affiliates.com
-bet365ce.com
-bet365t9.com
-bet89522222.com
-bet89588888.com
+bet365t7.com
+bet63035.com
+bet89599999.com
 beta-log.anninhthudo.vn
 beta.applo.com
 beta.generator.smarthost.pl
@@ -34884,6 +34629,7 @@ betlic.fr
 betmasquerainchan.com
 betnidorinoan.net
 betonred-france.fr
+betonred-login.fr
 betonred.com
 betonred1.fr
 betonredfrance.fr
@@ -35112,7 +34858,6 @@ bible-freedom.org
 biblecollation.com
 bibleguidepro.com
 biblesausage.com
-biblestudyace.com
 bibletriviatime.com
 bibletweak.com
 biboushop.fr
@@ -35182,7 +34927,6 @@ bieldfacia.top
 biemedia.com
 bienetreholistique.fr
 biengrandir37.com
-biens.biz
 bientanlenze.com
 bierlaube.de
 biettainhimua2.wixsite.com
@@ -35225,6 +34969,7 @@ bigdistributor.com
 bigduckgames.s3.amazonaws.com
 bigeagle.biz
 bigelowcleaning.com
+bigeqohar.bond
 bigfishgamesprodesntls.112.2o7.net
 bigfreelotto.com
 biggainsurvey.top
@@ -35271,13 +35016,11 @@ bihaipack.com
 bihome.top
 bihunekus.com
 biiepofl.xyz
-biikers.com
 biirmjnw.icu
 bijenkorfsale.com
 bijiangqing.com
 bijjurien.nl
 bijutr.shop
-bikash.me
 bike-pro.ru
 bike-unit.de
 bikecityfondo.com
@@ -35796,6 +35539,7 @@ blackenseaside.com
 blackforti-cards.com
 blackfriday-shoe.top
 blackfriday2021.us
+blackfridayflix.com
 blackgamezone.com
 blackhagga.duckdns.org
 blackhat.be
@@ -35970,6 +35714,7 @@ blitzeblank-stallreinigung.de
 blitzen.com
 blitzmediaplayer02.blitzmediaplayer.com
 blitzpromos.com
+blitzsurges.pages.dev
 bllbvv.xyz
 bllzgqbyp.com
 blm35.net
@@ -36071,8 +35816,6 @@ bloombrainz.com
 bloomingvibe.com
 bloqqer.fr
 blorol004.coordenacaodeprojetos.io
-blosckdagsnetwork.pages.dev
-bloscksdagnetwork.pages.dev
 blosil.nexuspatrimonial.city
 blossomfertilizerproperly.com
 blossommo.com
@@ -36132,7 +35875,6 @@ bluefielddailytelegraph.co.cc
 bluegas.com.au
 bluegives.com
 blueglory.de
-blueherrron7491.wixstudio.com
 bluejay.edgesoftware.cloud
 bluejay.fivefold.vc
 bluejay.postmediagroup.com
@@ -36271,7 +36013,6 @@ bnbmatrix.io
 bnbn.jp
 bncontracting.com
 bndes.webcindario.com
-bndfv.com
 bndl-trp.com
 bndxrr.xyz
 bneadoptionstaging.112.2o7.net
@@ -36311,6 +36052,7 @@ bnmtgboouf.com
 bnnr.nl
 bnox.fr
 bnp-service-client.fr
+bnpassitance.fr
 bnpbanq.fr
 bnpfinance.fr
 bnpknicjeb.com
@@ -36337,7 +36079,6 @@ bntbcstglobal.112.2o7.net
 bntxt.com
 bnuni.com
 bnvxcfhdgf.blogspot.com.es
-bnwffktyqjwrreh.xyz
 bnytools.xyz
 bo-aruba.blogspot.com
 bo-link.info
@@ -36385,7 +36126,6 @@ boatoamo.com
 boatshare.club
 boatsvest.com
 boattrue.com
-boausaew.beget.tech
 bobabillydirect.org
 bobandluna.com
 bobboro.com
@@ -36551,7 +36291,6 @@ bonneville.112.2o7.net
 bonniercorp.122.2o7.net
 bonnyprint.com
 bonobo.nola.today
-bonomans.com
 bonorumarctos.top
 bonosbevvy.com
 bonrbox.com
@@ -36953,6 +36692,7 @@ bpt.webedia-group.com
 bptracking.com
 bpu.samsungelectronics.com
 bpwhamburgorchardpark.org
+bpxxgkoj.icu
 bpyerxzn.xyz
 bpywqfn.cc
 bqg16.cc
@@ -37394,7 +37134,6 @@ bromson.com
 bromusic3s.site
 bronca.site
 broncosauthenticjerseys.com
-bronm0.wixsite.com
 bronotak.cn
 bronseltiren1971.blogspot.be
 bronseltiren1971.blogspot.com
@@ -37600,9 +37339,8 @@ bswlive.com
 bsxmuny.wp.pl
 bsytkas.cn
 bt-103638.weeblysite.com
-bt-104438.weeblysite.com
 bt-109657.weeblysite.com
-bt-broadband-20dec.weeblysite.com
+bt-broadband-webmail.weeblysite.com
 bt.dns-finder.com
 bt.mediaimpact.de
 bt.whopstriglot.com
@@ -37610,8 +37348,6 @@ bt1.patexplorer.com
 btaawy.cn
 btagmedia.com
 btbaemaprod.112.2o7.net
-btbillinpdf-oo1.weebly.com
-btbroadbandinfo4456.weebly.com
 btbulgaria.com
 btbventuresprod.112.2o7.net
 btc-electrum.com
@@ -37646,10 +37382,9 @@ btibtplc.112.2o7.net
 btiemail.112.2o7.net
 btigspresalessandt.112.2o7.net
 btimyaccountprod.112.2o7.net
-btinternet-102675.weeblysite.com
-btinternettweebley.weebly.com
 btj6xzc.duckdns.org
 btkwlsfvc.com
+btlllooooooooom.weebly.com
 btloader.com
 btn.onlylady.com
 btn.pchome.net
@@ -37677,6 +37412,7 @@ bttucd7itf1vg41exelg.maherstcottage.com.au
 btvhdscr.com
 btvuiqgio.xyz
 btw.co.il
+btwebmailcustomercare.weebly.com
 btwvisas.com
 btwwzqdx.xyz
 btxliveprice.kceyazilim.com
@@ -38309,7 +38045,6 @@ byxon.com
 byxxyz.com
 byyanmaor.com
 byytogm.cn
-byzhxx.com
 byzoruator.com
 bzamusfalofn.com
 bzbrwsq.cc
@@ -38490,6 +38225,7 @@ c11.statcounter.com
 c11.wltstockalerts.com
 c11011.com
 c12.statcounter.com
+c12c813990.com
 c13.statcounter.com
 c14.statcounter.com
 c15.statcounter.com
@@ -38589,6 +38325,7 @@ c4tdownload.com
 c4tracking01.com
 c5.statcounter.com
 c53b96fd6b.d03dbe8a1b.com
+c565389275.4f12fa3413.com
 c57bd95239.75cbb85265.com
 c5cdfd1601.com
 c5e739a769.com
@@ -38616,7 +38353,6 @@ c7aca91a6d.com
 c7vw6cxy7.com
 c8.net.ua
 c8.statcounter.com
-c805892b5b.com
 c81.ipanocloud.com
 c81cd15a01.com
 c83cf15c4f.com
@@ -38784,6 +38520,7 @@ cagrievi.com
 cagriinsaat.net
 cahealthequity.org
 cahenry.com
+cahse-ir6wf.ondigitalocean.app
 cahxpivu.com
 cai75tp.com
 caicaipoop.com
@@ -38977,6 +38714,7 @@ camping-community.com
 camping-pinede.fr
 campingcarplus.fr
 campingforthefunofit.com
+campingkaymakis.ath.forthnet.gr
 campingknown.com
 campingnews.dk
 campingplatz-goldbergersee.de
@@ -39076,7 +38814,6 @@ canbertcongco1972.blogspot.be
 cancalgary.112.2o7.net
 cancela.netlify.app
 cancela.netlify.com
-cancelarcompra-bancolombia.glitch.me
 canceranswers.info
 cancerlove.org
 cancerpune.com
@@ -39199,7 +38936,6 @@ caphrizing.com
 capifer.com.br
 capinfoproreport.batiactu.com
 capisp.com
-capitadw.beget.tech
 capitafu.beget.tech
 capital-united.com
 capitalandprojects.com
@@ -39260,6 +38996,7 @@ capwilyunseen.com
 capybara.civicsoftwarefoundation.org
 capybara.kylewinton.com
 capybara.randyhamiltonelectric.com
+caqivovum.link
 caqreg.xyz
 car-donation.shengen.ru
 car-loan.shengen.ru
@@ -39399,6 +39136,7 @@ carlsonmedia.streetinteractive.com
 carlsonradisson.112.2o7.net
 carmaxadaptive.112.2o7.net
 carmechanichelp.com
+carmencitasrl.com
 carmichaelroofinginc.com
 carmuffler.net
 carnavalensenada.mx
@@ -39527,6 +39265,7 @@ casefasr300.weebly.com
 casefileng.com
 casefyparamos.com
 casegenetically.com
+caseidrecovercasehelprecover21121.dbn7ogqu8tek5.amplifyapp.com
 casejav11.fun
 cases.pcohenlaw.com
 casetell.com
@@ -39815,7 +39554,6 @@ cazinoprizevip.in
 cazow.com
 cb-ag-anmelden.net
 cb-mms.carbuyer.co.uk
-cb-notifications.top
 cb.alimama.cn
 cb.baidu.com
 cb.l.qq.com
@@ -39881,7 +39619,6 @@ cbx.net
 cbxza.yt
 cbyhoe.xyz
 cc-35g-pg03u5i-9gh-1324992141.cos.ap-bangkok.myqcloud.com
-cc-shop.su
 cc.8181zx.com
 cc.calltracking.ru
 cc.dynamicdns.co.uk
@@ -40052,6 +39789,7 @@ cdn-dwnld.ru
 cdn-dynamic.optimonk.com
 cdn-exchange.toastoven.net
 cdn-go.net
+cdn-gw-dv.vip
 cdn-haokanapk.baidu.com
 cdn-header-bidding.snack-media.com
 cdn-image.com
@@ -40588,9 +40326,11 @@ centerpieces-with-feathers-for-weddi.blogspot.com
 centerpointmedia.com
 centersparcs.fr
 centesmbarbola.com
+centi.ai
 centipede.davimug.com
 centipede.roasted.dev
 centipede.wildbit.com
+centlyhavebed.com
 centra.vip
 centrachatcolatex.fr
 central-beta.mall.tv
@@ -40600,7 +40340,6 @@ central.mall.tv
 central1creditunion.112.2o7.net
 centraldaoferta.com
 centraldc.net
-centraldocumentossantander.com.br
 centrale-g7-reservations-france.fr
 centralepneu.fr
 centralheat.me
@@ -40736,7 +40475,6 @@ cethernet.com
 cetlm.duckdns.org
 cetrk.com
 cettenus.com
-cetulloupaprei-5463.vercel.app
 cetxouafsctgf.com
 cevahirreklam.com
 ceveq.click
@@ -40765,11 +40503,14 @@ cf.addthis.com
 cf.cdn.inmobi.com
 cf.kampyle.com
 cf.overblog.com
+cf.qinbo13235.workers.dev
+cf.xbaikr.workers.dev
 cf035299fa.9123c34615.com
 cf545aa526.3eab231aec.com
 cf76b8779a.com
 cf78a82187.d03476c640.com
 cf7f345e1e.536e9f9126.com
+cf852ff956.eef857d1fa.com
 cf97623.tw1.ru
 cf9c86d5de.f33207dc6c.com
 cfai66.fr
@@ -40803,6 +40544,7 @@ cfqc.me
 cfr.112.2o7.net
 cfrchildcare.com
 cfrfa.112.2o7.net
+cfrgthytrvtbbgf.weebly.com
 cfrsoft.com
 cfrtdmb.xyz
 cfs10.blog.daum.net
@@ -40820,6 +40562,7 @@ cftpolished5.top
 cfugrnc.icu
 cfusionsys.com
 cfw.dexscreener.com
+cfwk.isong.eu.org
 cfzrh-xqwrv.site
 cg.hotwp.net
 cg2017.com
@@ -40831,6 +40574,7 @@ cgcsarz0opg.jp
 cgczuu.xyz
 cgdc.ct8.pl
 cgeckmydirect.biz
+cgecocadusdnewmurillmsbritaccsetirlmuremeaoernweontnwotno.weebly.com
 cggqbjvncbw4ihibbsuw.maherstcottage.com.au
 cgi-smart.de
 cgiale.com
@@ -40898,6 +40642,7 @@ chainlirst.com
 chainlirstr.com
 chainlistr.com
 chainsforchange.com
+chainsmart-protocol.pages.dev
 chainsrectify.pages.dev
 chaintopdom.nl
 chaipoodrort.com
@@ -40982,6 +40727,7 @@ chanmao.online
 channel-7-news.com
 channel.api.duapp.com
 channel.m.163.com
+channel.volta.eu.org
 channelcamp.com
 channelchooser.info
 channeldrag.com
@@ -41046,6 +40792,7 @@ chase-secure01.serveirc.com
 chase-verify-activity.com
 chase-verifysupport.servehttp.com
 chase007.serveirc.com
+chase100secures.netlify.app
 chase2fa.com
 chasebank.anioutii.beget.tech
 chasebranchstore.com
@@ -41115,7 +40862,6 @@ chatsexgrupwaa.a5z.club
 chatsubs.com
 chatsupportagent.com
 chattogram.xyz
-chattts-49f1.beszyrecala.workers.dev
 chattysnaps.com
 chaturbatetokenhack.org
 chaturullu.in
@@ -42177,6 +41923,7 @@ cl.k5a.io
 cl.sexstories-all.com
 cl.t3n.de
 cl0udh0st1ng.com
+cl4im-h4di4h.info--id.web.id
 clackbenefactor.com
 cladlukewarmjanitor.com
 cladupius.com
@@ -42190,11 +41937,11 @@ claimcousins.com
 claimcutejustly.com
 claimedentertainment.com
 claimedinvestcharitable.com
-claimedreward.pages.dev
 claimedthwartweak.com
 claimeth.top
 claimfreerewards.com
 claimgratisfreefire1.duckdns.org
+claims-cryptoallstars.pages.dev
 claimtd.com
 clairekabobs.com
 clairpixum.com
@@ -42374,7 +42121,6 @@ clevelanddailybanner.co.cc
 clevelandqa.com
 clever-blackwell-b81e70.netlify.com
 clever-ibis.cloudvent.net
-clever-steadily-duckling.ngrok-free.app
 cleverads.vn
 cleverfoxx.com
 cleverhands.com
@@ -42406,8 +42152,10 @@ click-eu-v4.cldirplarimo.com
 click-eu-v4.direxclkp.com
 click-eu-v4.fiddirexol.com
 click-eu-v4.jundclikrmdi.com
+click-eu-v4.junmediadclikrmdi.com
 click-eu.cldirplarimo.com
 click-eu.jundclikrmdi.com
+click-eu.junexclkmid.com
 click-eu.plarimoexocli.com
 click-fr.com
 click-new-download.com
@@ -42433,6 +42181,7 @@ click-v4.fiddirexol.com
 click-v4.fidmkrclk.com
 click-v4.jundclikrmdi.com
 click-v4.junexclkmid.com
+click-v4.junmediadclikrmdi.com
 click-v4.plarimoexocli.com
 click.aarthpro.com
 click.absoluteagency.com
@@ -42466,6 +42215,7 @@ click.jasmin.com
 click.jr.jd.com
 click.jundclikrmdi.com
 click.junexclkmid.com
+click.junmediadclikrmdi.com
 click.jve.net
 click.kataweb.it
 click.kmindex.ru
@@ -42818,6 +42568,7 @@ clonazepamlearning.com
 cloncol.com
 clone147.com
 clonesmesopic.com
+clonewebsite-airbnb-hsoqsj3o1-ayodele-alayemi.vercel.app
 clonezilla.es
 clonezilla.fr
 clonezilla.it
@@ -43116,6 +42867,7 @@ cmtx2.csb.app
 cmweb.ilike.alibaba.com
 cmwi.net
 cmyx.xyz
+cn-allegeo-no6.one
 cn-server.com
 cn-steam.com
 cn.bidushe.com
@@ -43131,7 +42883,6 @@ cnam-france.fr
 cnam-marseille.fr
 cnam-portail.fr
 cnam-toulon.fr
-cnampaysdelaloire.fr
 cnb.cnews.ru
 cnbaileybridge.net
 cnbd1.appmobile.cn
@@ -43468,6 +43219,7 @@ coherepeasant.com
 cohoi.tuoitre.vn
 cohortgripghetto.com
 cohtsfkwaa.com
+coibospirlogginkukuk.godaddysites.com
 coidea.com.de
 coin-ad.com
 coin-blocks.com
@@ -43833,6 +43585,7 @@ combofile4u.click
 combotag.com
 combum.de
 combustibleaccuracy.com
+comcast-109350.square.site
 comclick.com
 comcluster.cxense.com
 comcomsystems.com
@@ -43942,11 +43695,13 @@ commsvc.stern.de
 communication-groupeschroll.fr
 communication-hfp.fr
 communication3x.fun
+communiition.weebly.com
 communisave.co.za
 community-ebay-de-diskussionsforen-3ws.html-5.me
 community-ebay-de-diskussionsforen-6ws.html-5.me
 community-ebay-de-diskussionsforen.html-5.me
 community-report.com
+community.jerseyshoreonline.com
 communityshelf.com
 comodo.world
 comodoo.com
@@ -44291,6 +44046,7 @@ connect360bd.com
 connectad.io
 connectashelf.com
 connectbrain.com
+connectdapp-token.site
 connecte-comptes.fr
 connecte-mes-comptes.fr
 connecte-safe.fr
@@ -44462,6 +44218,7 @@ consultane.com
 consultant-online.ru
 consultantvariabilitybandage.com
 consultapromocional.com.br
+consultas-a7chaves.fun
 consultation233.fun
 consultationantsclients.fr
 consultationfva.fr
@@ -44488,7 +44245,6 @@ contact-celebrities.com
 contact-chronopost.fr
 contact-eiffage.fr
 contact-gloss-production.accelerator.net
-contact-helpdesk.com
 contact-instagram.com
 contact-leboncoin.fr
 contact-neoviaretraite.fr
@@ -45504,7 +45260,6 @@ cp.qbaobei.com
 cp.surf-town.net
 cp2.eastmoney.com
 cp2s.xyz
-cp96524.tw1.ru
 cpa-optimizer.online
 cpa-tc.com
 cpa.greenp.kr
@@ -45586,6 +45341,7 @@ cpm.infinityexplorers.com
 cpm.kremsondigital.com
 cpm.mediahubserver.com
 cpm.milkywase.com
+cpm.oppa.media
 cpm.pubgenius.io
 cpm.pulsefintech.net
 cpm.pureadsltd.com
@@ -45599,7 +45355,6 @@ cpm.smoads.com
 cpm.theardent.group
 cpm.thecdn.site
 cpm.tris.com
-cpm.vashoot.com
 cpm.videowalldirect.com
 cpm.voisetech.com
 cpm.wxadserve.xyz
@@ -46318,6 +46073,7 @@ crypto022.online
 crypto029.online
 crypto030.online
 cryptoalliance.herokuapp.com
+cryptoallstarsdata.pages.dev
 cryptoassetfunding.com
 cryptoatom.care
 cryptobeneluxbanner.care
@@ -46570,7 +46326,6 @@ cubchannel.com
 cubchillysail.com
 cube-projekt.at
 cubectivel.com
-cubegremeddu-6833.vercel.app
 cubepins.com
 cubeuptownpert.com
 cubiboak.com
@@ -46695,12 +46450,10 @@ currencyconverterbanking.weebly.com
 currencyoffuture.com
 currentaccountadv.com
 currentcollar.com
-currentfromatt.wixsite.com
 currentheadlines.top
 currentlevel.com
-currently0734.weebly.com
-currently3339.weebly.com
-currently52140.weebly.com
+currently7362826.weebly.com
+currentlyatt312.weebly.com
 currentlyattyahoomailserverlogin.weebly.com
 currentlyattyahoomailservicesinattemptemlogin.weebly.com
 currentlyattyahoomailwebserviceconnectionsinin.weebly.com
@@ -46732,7 +46485,6 @@ curvedheldideal.com
 curvedhoney.com
 curvedspaces.com
 curvedsquirrel.com
-curverpluch.lat
 curvyalpaca.cc
 curvycord.com
 curvycry.com
@@ -46801,7 +46553,8 @@ cutty.app
 cutvu.com
 cutyoutube.com
 cuvtnzv.cn
-cuwimeloh.link
+cuwimeloh.pink
+cuwimeloh.wang
 cuwlmupz.com
 cuwuk.ru
 cuya.fr
@@ -46955,7 +46708,6 @@ cyeqeewyr.com
 cyg-byzlgtns.world
 cygnus.com
 cyhbrjf.cn
-cyjris.biz
 cykahax.net
 cyl3h68.cn
 cylnkee.com
@@ -46977,6 +46729,7 @@ cypril.com
 cyprus-villas.org
 cyprusrentalvilla.co.uk
 cyrasi.com
+cyrociest.shop
 cyrpt.amidaaccountancy.com
 cyrwmgy.cn
 cysd.7kww.net
@@ -47084,6 +46837,7 @@ d0.sina.com.cn
 d0.xcar.com.cn
 d00.sina.com.cn
 d03804f2c8.com
+d03ab571b4.com
 d0556a9fe2.b0e610e078.com
 d077.gazette.com
 d08l9a634.com
@@ -47284,6 +47038,7 @@ d1f1lqyq09pe4q.cloudfront.net
 d1f52ha44xvggk.cloudfront.net
 d1f5r3d462eit5.cloudfront.net
 d1f5rbi95y1icu.cloudfront.net
+d1f76eb5a4.com
 d1f7b9f55a.791ba004c3.com
 d1f7vr2umogk27.cloudfront.net
 d1f94w321xtzmt.cloudfront.net
@@ -48199,6 +47954,7 @@ d41.co
 d415l8qlhk6u6.cloudfront.net
 d43849fz.xyz
 d44501d9f7.com
+d457c69ef7.0e07fa9a08.com
 d473c08307.com
 d483501b04.com
 d485.capitalgazette.com
@@ -48291,6 +48047,7 @@ d92eb9bd49.f815e7113a.com
 d93c7fe890.7449c83326.com
 d942m.weblium.site
 d95a982a89.3a9e260227.com
+d97be2bd-5ede-4bac-bcdf-ae173bf49d26-00-2q9vmhkc7wljc.kirk.replit.dev
 d985a9d2clzq5.cloudfront.net
 d9b5gfwt6p05u.cloudfront.net
 d9c5dterekrjd.cloudfront.net
@@ -48517,7 +48274,6 @@ dalecta.com
 daleperceptionpot.com
 daleriki.com
 daleroxas.com
-dalesisson.wixsite.com
 dalethsplicae.website
 daliantong.com.cn
 dalla.eu
@@ -48549,7 +48305,6 @@ damemitstorch.de
 dameyuan.com
 damgurwdblf.xyz
 damhixs.cn
-damisasarah11.github.io
 damisystem.com
 damlaninciftligi.com
 damnakkitchen.com
@@ -48606,6 +48361,7 @@ daniellimabrito.com
 danmarks.com
 danmounttablets.com
 danmu.log.kukuplay.com
+danny-py5.github.io
 dannyscreen.com
 dannyuncoach.com
 danojeo.shop
@@ -48626,11 +48382,10 @@ daostack.onuniverse.com
 daoyoudao.com
 daphnews.com
 dapp1e5k7565t.amplifyapp.com
-dappamendnow.pages.dev
-dappconnected.pages.dev
+dappdecentralisedlaunchpad.vercel.app
 dapperdiscussion.com
-dappsvalidator.pages.dev
-dappsvalidators.pages.dev
+dappsdecentralizefix.web.app
+dappsrecovery.firebaseapp.com
 dappsyncrectify.pages.dev
 dapsol.com
 dapsolution.com
@@ -48661,7 +48416,6 @@ dark.zarca.info
 darkandlight.ru
 darkavenger.hackfree.us
 darkenedplane.com
-darkercoincidentsword.com
 darkerillegimateillegimateshade.com
 darkerprimevaldiffer.com
 darkgate.com
@@ -48676,7 +48430,6 @@ darkstratus.com
 darkwebmafias.ws
 darkwhores.us
 darkxmode.com
-darlene.in
 darmart.fr
 darmowa.eu
 darmowylicznik.pl
@@ -48714,7 +48467,6 @@ dash.pocketuniverse.app
 dash.tmearn.com
 dash.zintrack.com
 dashbida.com
-dashboard-jup.web.app
 dashboard.cointelegraphc.com
 dashboard.evolveplatform.net
 dashboard.tinypass.com
@@ -49005,6 +48757,7 @@ db033pq6bj64g.cloudfront.net
 db105.com
 db2017417b23.zapto.org
 db20da1532.com
+db33180b93.com
 db35y.codesandbox.io
 db4zl9wffwnmb.cloudfront.net
 db72c26349.com
@@ -49144,6 +48897,7 @@ dd713.bj.bcebos.com
 dd90.phatbois.biz
 dd9l0474.de
 ddacn6pr5v0tl.cloudfront.net
+ddasswery.weebly.com
 ddbhm.pro
 ddcad3.reviewgiftfb.com
 ddd-9.com
@@ -49230,6 +48984,7 @@ de2da13f46.com
 de2nsnw1i3egd.cloudfront.net
 de3hzpms0kfq9.cloudfront.net
 de46db986d.b1d7b5cd5c.com
+de597327a9.6657e4f5c2.com
 de97a02584.efb566d3fe.com
 de997e1b5b.3b0d1d534e.com
 deacthlon.fr
@@ -49411,7 +49166,6 @@ decrolyschool.be
 decswci.com
 deczthlon.fr
 ded.shuprobika.ir
-ded3249.inmotionhosting.com
 dedcrfvdj.xyz
 dedestin0.jp
 dedeym.com
@@ -49445,6 +49199,7 @@ deenoacepok.com
 deenveerww.wixsite.com
 deep-dealings.com
 deep.edgequery.io
+deepakbansal7427.github.io
 deepboxervivacious.com
 deepdive.zum.com
 deephicy.net
@@ -49728,8 +49483,8 @@ demiseskill.com
 demizhe.com
 demkc32bq01ah.cloudfront.net
 demo-host.de
+demo-tailwind-sooty.vercel.app
 demo.ezra-ai.com
-demo.gesto.es
 demo.pagodalabs.com.np
 demo.reviveadservermod.com
 demo.vertexinfo.in
@@ -49772,6 +49527,7 @@ deni6.deninet.hu
 denialjav128.fun
 denialrefreshments.com
 deniedsolesummer.com
+denimcard.com
 denimstore.fr
 denisen.com.cn
 denislavoie.com
@@ -49889,6 +49645,7 @@ deputadfederativos.com.de
 deqik.com
 deqwas.net
 derangedadage91wis.files.wordpress.com
+derankeji.com
 derateissuant.top
 derbyjunction.com
 derdpawup.com
@@ -50009,6 +49766,7 @@ desklink.duckdns.org
 deskt.cn
 desktoolssoft.com
 desktop.spotify.com
+desktoptg.com
 desktoptrainingacademy.com
 deslatiosan.com
 despairrim.com
@@ -50055,6 +49813,7 @@ details-safety.serveirc.com
 details.squirly.info
 detankzone.com
 detaymaxinet.com
+detect-login-lapses.vercel.app
 detect.mb.qq.com
 detectaseguranca.com.br
 detectdinner.com
@@ -50095,8 +49854,9 @@ deutsche-waerme.de
 deutscheinvestitionen.com
 deutscher-federfussballbund.de
 deutscheshaus-wetzlar.de
-dev-428986545360768746.pantheonsite.io
 dev-analytics-cf.bigcrunch.com
+dev-doc-sign5346554e5ge5363.pantheonsite.io
+dev-orgn.pantheonsite.io
 dev-site.ovh
 dev.a-t-martialarts.com
 dev.adforum.com
@@ -50192,7 +49952,6 @@ dexolve.info
 dexoucheekripsu.net
 dexplatform.com
 dexpredict.com
-dexrimewbp.com
 dextrader.all.co.uk
 deyidesign.com
 deymalaise.com
@@ -50334,6 +50093,7 @@ dgyrizngtcfck.cloudfront.net
 dh0c1bz67fuho.cloudfront.net
 dh0uktvqfaomb.cloudfront.net
 dh3a.yt
+dh3a1el7sz.cyou
 dh6dm31izb875.cloudfront.net
 dhadbeensoattr.info
 dhakatv24.com
@@ -50348,10 +50108,8 @@ dhauzja511.co.cc
 dhcmni6m2kkyw.cloudfront.net
 dhcp-232-249-59-5.metro86.ru
 dhdservices.com.au
-dhdudyserveratt.weebly.com
 dhg-group.com
 dhgdp.cn
-dhghwuses.weebly.com
 dhgywazgeek0d.cloudfront.net
 dhhpm.cn
 dhhwp.yt
@@ -50372,11 +50130,10 @@ dhlexpress-vietnam.com.vn
 dhlh.org
 dhli.fr
 dhlinfo-arrivages.fr
-dhlmvp.webauthor.com
 dhlseguimiento.com
-dhltracker.net
 dhm1.top
 dhn-ads-api.365scores.com
+dhnconstrucciones.com.ar
 dhobeynandi.com
 dhodha.com
 dhoma.xyz
@@ -50389,6 +50146,7 @@ dhsmarthouse.122.2o7.net
 dhsstm.com
 dhtech.ae
 dhuimjkivb.com
+dhusch.com
 dhux7ijh.click
 dhzws7l31cq8p.cloudfront.net
 di-ana.jp
@@ -50442,6 +50200,7 @@ diamondschoolss.pages.dev
 diamonstar.cn
 diamonykeqpwm.shop
 dian.brecm.xyz
+dianbao.zhuceyixiaxia.workers.dev
 diandongchetoukui.com
 dianeellease.com
 dianepiette.co.uk
@@ -51239,7 +50998,6 @@ dishevelledoughtshall.com
 dishonourfondness.com
 dishusarees.com
 dishwaterconcedehearty.com
-disingenuousdismissed.com
 disingenuousmeasuredere.com
 disinheritbottomwealthy.com
 disintegratenose.com
@@ -51632,7 +51390,6 @@ dlkjgjmy.com
 dlksn.yt
 dll-files-fixer.com
 dllmicrosoft.b-cdn.net
-dllwieurmzxbd.weebly.com
 dlm1.kro.kr
 dlmix.ourdvs.com
 dlmonitize.com
@@ -51676,6 +51433,7 @@ dltvkwr7nbdlj.cloudfront.net
 dlv.hooniad.com
 dlv.itmedia.jp
 dlvds9i67c60j.cloudfront.net
+dlwk--tc.tc631177452.workers.dev
 dlxk2dj1h3e83.cloudfront.net
 dlyazdorovia.ru
 dlysxx.cn
@@ -51723,8 +51481,6 @@ dmb.dnetwork.si
 dmc1acwvwny3.cloudfront.net
 dmcast.com
 dmcontactmanagement.122.2o7.net
-dmcqueen71.wixstudio.com
-dmcqueen71.wixstudio.io
 dmdigbrzjbmso.cloudfront.net
 dmdij.yt
 dmdjzf.yt
@@ -51733,7 +51489,6 @@ dmedlab.com
 dmeq7blex6x1u.cloudfront.net
 dmetherearlyinhes.info
 dmeukeuktyoue.info
-dmfkf.packer-packer.info
 dmforjadores.con-ip.com
 dmfvkcsyddmelo.com
 dmg-az.de
@@ -51995,7 +51750,6 @@ documentworkspace.io
 docuprivacy.com
 docusign.doc-system.org
 docusign.someanswers.net
-docusign7545675.weebly.com
 docusignsecuredadminserveelectronic-signature.weebly.com
 docusine.com
 docviewprocess.bplaced.net
@@ -52047,6 +51801,7 @@ dogcollarfavourbluff.com
 dogday.ru
 doge-elon.com
 dogecoin20-st.web.app
+dogecoinevents.org
 dogehype.com
 dogemoon.info
 dogfood.live
@@ -52267,7 +52022,6 @@ donkey.masteringfinland.com
 donkey.mrfrisby.com
 donkey.the3rd.place
 donkstar2.online
-donlpersonalloansok.live
 donlucifergames.com
 donmainchech54.web.app
 donmainchech665.web.app
@@ -52537,7 +52291,6 @@ down10d.zol.com.cn
 down1oads.com
 downads.com
 downeyidaho.com
-downlight-ofcity.com
 download-ai.top
 download-alert.com
 download-amigo.com
@@ -52571,6 +52324,7 @@ download.bugmakerx.cn
 download.caihong.com
 download.cdn.jzip.com
 download.cm
+download.cudo.org
 download.dolphin-browser.cn
 download.easyweatheralert.com
 download.emailorganizer.com
@@ -53048,6 +52802,7 @@ droplbox.com
 droppalpateraft.com
 droppingforests.com
 droppingprofessionmarine.com
+droprevchain.pages.dev
 dropsclank.com
 dropscoffees.click
 dropshippingtoday.com
@@ -53132,6 +52887,7 @@ ds02gfqy6io6i.cloudfront.net
 ds1.kaijia.com
 ds2.obmenvsemfiles.com
 ds2.obmenvsemfiles.net
+ds2wxzeakypy9.cloudfront.net
 ds3.biz
 ds6br8f5qp1u2.cloudfront.net
 ds7hds92.de
@@ -53152,6 +52908,7 @@ dscord.xyz
 dsestimation.com
 dsfbdfspichincha.webcindario.com
 dsfr-builder.fr
+dsfsdff234.weebly.com
 dsg.interia.pl
 dsg.reifporn.de
 dsgggggzs.backflowtester.net
@@ -53165,7 +52922,6 @@ dsicrod.com
 dsikpuv.icu
 dsiscord.com
 dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
-dsjek1.pages.dev
 dsjfndswibebfds.con-ip.com
 dsjij.yt
 dsjxs.yt
@@ -53197,7 +52953,6 @@ dspmega.com
 dspmulti.com
 dspunion.com
 dspxxy.com
-dsracingshop.com
 dsrqha.gay.tathamservice.com
 dssct.net
 dssdfsf.cn
@@ -53517,7 +53272,6 @@ dvss.in
 dvsshoes.fr
 dvv009j588zal.cloudfront.net
 dvvemmg.com
-dvypar.com
 dvzk66.cn
 dvzkkug.com
 dw-eu.com.com
@@ -53754,7 +53508,6 @@ e-perpus.sidoarjokab.go.id
 e-place.ru
 e-planning.net
 e-refund.fr
-e-service.org
 e-stat.huya.com
 e-taekwang.com
 e-tax-nta.web.app
@@ -53845,6 +53598,7 @@ e4ddc581a4.613d89bc71.com
 e4fef4ffec.f494c28901.com
 e4l4.com
 e5019.e2.akamaiedge.net
+e59a2ad79a.com
 e5asyhilodice.com
 e5dc49ac415c6dbca707387ec3ddc24a.shop
 e61wl4hvygsm.live
@@ -54000,7 +53754,6 @@ earthlinkcom.122.2o7.net
 earthllnk.net
 earthlnkcom.122.2o7.net
 earthlnkpsplive.122.2o7.net
-earthmetapage.pages.dev
 earthquakehomesinsulation.com
 earthtek.co.za
 earthworm.creatifmediagroup.com
@@ -54170,8 +53923,8 @@ ebanking.wiopm.com
 ebankingch4-ubs.gotdns.ch
 ebat.com
 ebav.com
-ebay-globalgos.com
 ebay.com-itm.apple-iphone.live
+ebay.ebaysncd.com
 ebay1.112.2o7.net
 ebay839.cc
 ebayadservices.com
@@ -54196,6 +53949,7 @@ ebd.cda-hd.co
 ebdr3.com
 ebdv.com
 ebdw.com
+ebeb1919.shop
 ebenefitssh.com
 ebengussaubsooh.net
 eberharttherapy.com
@@ -54246,6 +54000,7 @@ ec2-13-231-152-17.ap-northeast-1.compute.amazonaws.com
 ec2-13-251-3-88.ap-southeast-1.compute.amazonaws.com
 ec2-13-38-249-182.eu-west-3.compute.amazonaws.com
 ec2-13-40-115-95.eu-west-2.compute.amazonaws.com
+ec2-13-43-58-188.eu-west-2.compute.amazonaws.com
 ec2-13-59-178-90.us-east-2.compute.amazonaws.com
 ec2-15-237-137-237.eu-west-3.compute.amazonaws.com
 ec2-175-41-154-10.ap-southeast-1.compute.amazonaws.com
@@ -54469,7 +54224,6 @@ edetlmb.cn
 edf-accounting.fr
 edf-contact.fr
 edfcorse.fr
-edfdc0fa5e2ae6e3c6d7156f3b2ce00c.cdn.bubble.io
 edfetmoi.fr
 edfmaconso.fr
 edfrecrute.fr
@@ -54602,11 +54356,10 @@ edvxygh.com
 edws.duckdns.org
 edysn.cn
 edzyhx.cn
-ee-internet-server-web.weebly.com
+ee-help-account.web.app
 ee-m0.re
 ee-m0re.re
 ee-more.re
-ee-payment-help.firebaseapp.com
 ee.adocean.pl
 ee.hit.gemius.pl
 ee.j5s9b.cn
@@ -54835,6 +54588,7 @@ egyazegyben.com
 egyenesen.com
 egykofo.com
 egypolice.com
+egypt2.camdvr.org
 egyptican.com
 egyptmotours.com
 egypttourism-online.com
@@ -54869,6 +54623,7 @@ ehzwq.shop
 ei.cnzz.com
 eiamcentral.art
 eiamglobal.co
+eibzywva.com
 eichholz-klinik.de
 eichholzklinik.de
 eidersalias.com
@@ -54880,6 +54635,7 @@ eiegkg.xyz
 eieiz.com
 eielecom.fr
 eiffage-btp.fr
+eiffage-infrastructures-sas.fr
 eiffageniecivil.fr
 eiffelpost.com
 eighh8pt.top
@@ -54995,6 +54751,7 @@ elbuenfin.org
 elcamellon.com
 elcineencasa.com
 eld-grafi.com
+eldenringnightreigninvited.com
 elderlybean.com
 elderlybliss.net
 elderlycare.live
@@ -55304,7 +55061,6 @@ emailespresso.com
 emailexpress.in
 emailflyfunny.com
 emailinbox.net
-emailmarketing.locaweb.com.br
 emailnewsletter.eu
 emailon.top
 emailonlinechase.com
@@ -55319,7 +55075,6 @@ emailsettingvalidation.weebly.com
 emailspeed.de
 emailsystem.in
 emailtracking.appsflyer.com
-emailupdate1.wixsite.com
 emailverification.fr
 emailzz.com
 emamit.com
@@ -55467,6 +55222,7 @@ employmentpersons.com
 employsisomery.digital
 emplpoi-store.fr
 emporio-armani.fr
+emporioarmani-france.fr
 emporioopticomt.com.br
 empowerimmigrants.com
 emprestimo-negativado-online.epizy.com
@@ -55553,6 +55309,7 @@ encouragingpistolassemble.com
 encouragingthread.com
 encouragingwilderness.com
 encrypt-email.online
+encrypt.wallet-connect-6pp.pages.dev
 encrypted7745.hopto.org
 encryptedpdf.com
 encrypthub.net
@@ -55847,7 +55604,6 @@ entrecard.s3.amazonaws.com
 entregademerdadoria.com.de
 entregadoronline.com
 entregamais.com.br
-entregas-luiza.com
 entrenate.alcotrans.co
 entrepinceladas.com
 entrepreneur.122.2o7.net
@@ -56157,6 +55913,7 @@ errolandtessa.com
 error-toolkit.com
 error-tracking.reddit.com
 error.videonow.ru
+errorcobseaee786.azurewebsites.net
 errordoctor.com
 errorfixertool.com
 errorkiller.com
@@ -56869,7 +56626,6 @@ events.ocdn.eu
 events.onet.pl
 events.paramount.tech
 events.popinfo.jp
-events.preprod.afcen.com
 events.privy.com
 events.realgravity.com
 events.reclamefolder.nl
@@ -57013,7 +56769,6 @@ evkakuri2308.click
 evkc.com
 evlilikfoto.com
 evlsn.com
-evmdapps.pages.dev
 evmeio.com
 evmodi0.ddns.net
 evncredit.online
@@ -57164,6 +56919,7 @@ excitingstory.click
 excitingtub.com
 excitonglosts.top
 exclaimrefund.com
+exclink.weebly.com
 exclkplat.com
 excllusive.com
 exclplatmain.com
@@ -57485,7 +57241,6 @@ eycameoutoft.info
 eycnlprod.112.2o7.net
 eycode.com
 eyd77s.com
-eye-surgeonnow.sale
 eye-watch.in
 eye.appyboys.com
 eye.communecapital.com
@@ -57666,6 +57421,7 @@ f19893fb1c.com
 f1e4fcff2b.27640ea29d.com
 f1nancier.com
 f1t5pb.cn
+f2.930315.xyz
 f2009d2dde.3d13c6ba2a.com
 f21ea56300.e16a8cbec4.com
 f237274791.0886c43482.com
@@ -57707,6 +57463,7 @@ f4823894ba.com
 f4crfba23nw6.live
 f4vb9n3tdvh.life
 f5063966e5.com
+f551003.cc
 f58x48lpn.com
 f59408d48d.com
 f5app1ec.invierte.ec
@@ -57938,13 +57695,16 @@ faceboo.de
 facebooc.jp
 facebooik.com
 facebook-ads.hara.vn
+facebook-clone-d075c.web.app
 facebook-com-pl-profil.7m.pl
 facebook-com-pl-profile.7m.pl
 facebook-com506.webnode.com
+facebook-gamma-cyan.vercel.app
 facebook-google-15oqyxwtkremqyujsm.vercel.app
 facebook-google-vptyyny63pwfipshmm.vercel.app
 facebook-google-ygggvmvciad74v9lhi.vercel.app
 facebook-guidelines.com
+facebook-login-rny58qv7c-el-professor.vercel.app
 facebook-login.mobiletracker.pk
 facebook-login.mypi.co
 facebook-marketing.fr
@@ -58404,6 +58164,7 @@ fastbs.com
 fastbus.com.br
 fastcashloansdirectly.com
 fastcdn.info
+fastchainlinks.pages.dev
 fastcj.com
 fastclick.co
 fastclick.com
@@ -58481,7 +58242,6 @@ fatheemt.com
 father-national.com
 fatherchacon.com
 fathomcleft.com
-fatimareefat.github.io
 fatsnake.duckdns.org
 fatsosjogs.com
 fatturazione-10servizi-it.com
@@ -58566,6 +58326,7 @@ fb-next-securityss.rumahweb.org
 fb-plus.com
 fb-register661.at.ua
 fb-register67.at.ua
+fb-signup-page-jwzu.vercel.app
 fb-tools.soft112.com
 fb.cdn-10.mylnix.com
 fb.darbo.uzrasai.lt
@@ -58574,7 +58335,6 @@ fb26830afd2759cb76a56c57d608ff88-dot-oo0-987.appspot.com
 fb55957409.com
 fb7961un.bget.ru
 fba7e77fa773abedc2066537e1e6f812.us
-fbaccountrecoverer.com
 fbadder.com
 fbapi.guguread.com
 fbappi.co
@@ -58694,6 +58454,7 @@ fdbskb.cn
 fdelphaswcealifornica.com
 fdfda.zhuzhai.com
 fdfdsfdsag.duckdns.org
+fdffssddsdsdeaaeass.weebly.com
 fdgeen.com
 fdgem.com
 fdggm.yt
@@ -58727,7 +58488,6 @@ fdveqpc.cn
 fdxpfeb.cn
 fdyn.pubwise.io
 fe-au.imrworldwide.com
-fe-by01p-msa.trafficmanager.net
 fe-go.letv.com
 fe.lea.lycos.es
 fe02.lg.xiaomi.com
@@ -58865,7 +58625,6 @@ fejezet.com
 fejla.com
 fek3qya20lid.live
 fekpcd.icu
-fekrhegypt.com
 felanitxers.com
 felara.com.do
 felicesfiestas.com.mx
@@ -58945,6 +58704,7 @@ ferdimac.com
 ferding.com
 ferdzo.con.mk
 fereservesystemgroup.com
+fereshtehjoon.thesedayslife.workers.dev
 feriassaimiri.com
 ferienhaus-kroatien-brela.de
 ferienwohnungen-alpenland.at
@@ -58954,7 +58714,6 @@ fermolo.info
 fernandespegoraro.com
 fernandestechnical.com
 fernandomalta.adv.br
-fernwaycloud.com
 fernytowd.com
 feroffer.com
 ferp.googledns.io
@@ -58999,7 +58758,9 @@ fesportal.com
 fessoovy.com
 festerbutor.hu
 festereasiness.link
+festivadanapoin.fstvz.xyz
 festivaldescons.fr
+festivalpoindn4.my.id
 festive-jones.34-125-197-109.plesk.page
 festoch.fr
 festtube.com
@@ -59071,6 +58832,7 @@ ff.member.garenae.vn
 ff.psd8.com
 ff.xue163.net
 ff14044536.14a9004c2a.com
+ff2f72443e.096f5e98aa.com
 ff9b084348.com
 ffb7c5bd32.05951bf6a3.com
 ffbdbx.xyz
@@ -59112,7 +58874,6 @@ fgbnnholonge.info
 fgdkfr.xyz
 fgeivosgjk.com
 fgf5.webcindario.com
-fggddcurrently.weebly.com
 fghghh.cn
 fghhbp.xyz
 fgk-jheepn.site
@@ -59223,7 +58984,6 @@ fifohbibou.blogspot.com
 fiftyt.com
 fig3gj0v6qe.life
 figany.com
-figgq.com
 fightingcancer.net
 fightingleatherconspicuous.com
 fightmallowfiasco.com
@@ -59516,6 +59276,7 @@ filter.safesearchguard.com
 filter.saroadexchange.com
 filter.shieldcheckerservices.com
 filter.srvqck.com
+filter.srvqck1.com
 filter.themediaad.com
 filter.thetrafficbid.com
 filter.thetrafficboss.com
@@ -59523,7 +59284,6 @@ filter.thing02.com
 filter.trackifyy.com
 filter.ultrads.net
 filter.uptowntraction.com
-filter.vashoot.com
 filter.winkleads.com
 filter.xmladsystem.com
 filter3.danarimedia.com
@@ -59631,7 +59391,6 @@ findbotox.com
 findbrakes.com
 findcheat.com
 findcommerce.com
-findcredit-scores.sale
 finder2024.com
 findfor.net
 findglocal.com
@@ -59661,6 +59420,7 @@ findopolis.net
 findprizesplace.life
 findreaders.com
 findromanticdates.com
+findrpc.net
 findsjoyous.com
 findslofty.com
 findsrecollection.com
@@ -59711,7 +59471,6 @@ finishtradeexpo.com
 finitecube.com
 finity-live.de
 finized.co
-finjuiceer.com
 finkid-store-wilmersdorf.de
 finkyepbows.com
 finland-kasino.com
@@ -59829,6 +59588,7 @@ firstline.cc
 firstload.de
 firstlyfirstpompey.com
 firstmobileeducation.com
+firstshiroclaim.online
 firstsyntax.fr
 firsttexture.com
 firsttrack.net
@@ -59865,7 +59625,6 @@ fistevasionjoint.com
 fistofzeus.com
 fistsurprising.com
 fitact.com
-fitcellphonesok.live
 fitcenterz.com
 fitchciapara.com
 fitflopsale-clearance.us.com
@@ -59976,7 +59735,6 @@ fkii.org
 fkj8.com
 fkjdiefz.icu
 fkjsjwbs.xyz
-fkjxzzc.com
 fkkse.com
 fklike.com
 fkllodaa.com
@@ -60174,11 +59932,11 @@ flixdot.com
 flixillimite.com
 flixsurvey.shop
 flk41.com
-flleo4.wixsite.com
 flloi.yt
 flluae.com
 flmcitgruop.co.uk
 flnenmtgtmua.live
+flngf.top
 flnns.yt
 float-next.com
 float.co.kankan.com
@@ -60475,6 +60233,7 @@ folamsan.kovo.vn
 foldedaddress.com
 foldedcups.link
 foldedprevent.com
+folder.aftermilk.workers.dev
 folderdocs.com
 folderurl.com
 foldinginstallation.com
@@ -60961,7 +60720,6 @@ fq67.top
 fq703w52zt.pages.dev
 fq7qb1.postal.gameplansession.com
 fqbjzj.xyz
-fqbwzrktmgnuy.xin
 fqirjff.com
 fqkeepers.com
 fqqcfpka-ui.top
@@ -61005,7 +60763,6 @@ fr-supermarches.fr
 fr-tiktok.fr
 fr-ugg.fr
 fr.chillaxgames.mobi
-fr.shopping.rakuten-paiments.com
 fra-log.com
 fra1-ib.adnxs.com
 fra2utyr6zsdchelinais.com
@@ -61021,7 +60778,6 @@ fragment.capital
 fragongor.veritasinvest.io
 fragonnard.fr
 fragrance-wholesale.com
-frahettubrulau-1138.vercel.app
 fraikin-france-idf.fr
 frailfederaldemeanour.com
 frailfruit.com
@@ -61205,6 +60961,7 @@ free-trip.net
 free-v-bucks-now.com
 free-vad.fr
 free-vbucks.site
+free-verified-opportunity-here.vercel.app
 free.babynameready.com
 free.calendarspark.com
 free.content.streamray.com
@@ -61754,7 +61511,6 @@ fthmyvrefryk.com
 ftiscali.it
 ftj74.codesandbox.io
 ftm.fluencyinc.co
-ftmeahbqbemwx.com
 ftp-reklama.gpd24.pl
 ftp-world.de
 ftp.alphaglobal.pt
@@ -61856,6 +61612,7 @@ fulheaddedfea.com
 full-movies-online.cba.pl
 fullanimals.cl
 fullarmorstudios.com
+fullblocksnodeboardx.pages.dev
 fullboxsystem.com
 fullcat21.duckdns.org
 fullcircleteam.com
@@ -62019,6 +61776,7 @@ fusion.qq.com
 fusion.sydsvenskan.se
 fusion.va.se
 fusionads.net
+fusioncryptdextrade.pages.dev
 fusionhacks.pro
 fusionquest.com
 fusionsports.de
@@ -62387,7 +62145,6 @@ gae.karte.io
 gaee.hit.gemius.pl
 gafmajosxog.com
 gagakagagb.com
-gagan2021.github.io
 gaganpiti.in
 gagapegeeee.com
 gagaz.cn
@@ -62554,6 +62311,7 @@ gamecygenn.com
 gamedata.box.sk
 gamedownloadnow.com
 gamee.top
+gameeldenringnightreign.com
 gamefabrique.com
 gamefiver.com
 gameflect.com
@@ -62784,7 +62542,6 @@ gardensrestaurantandcatering.com
 gardenstatehelicopters.com
 gardenstrutturelegno.com
 gardenworksproject.org
-garderie329.wixsite.com
 gardinotec.ind.br
 gardoult.com
 garena-membership.com
@@ -63055,6 +62812,7 @@ gcontent.services.tvn.pl
 gcounter.hosting4u.net
 gcp.passendo.com
 gcpabnxt.xyz
+gcpbsquxrh.top
 gcpusibqpnulkg.com
 gcpvkfe.cn
 gcqcanada.com
@@ -63169,6 +62927,7 @@ geek-reviews.net
 geekactive.com
 geekmodetees.com
 geekotg.com
+geeks-px-link-ld.iffxq.buzz
 geeksprosoftwareprints.org
 geekupdates.notion.site
 geelonggastro.com.au
@@ -63180,9 +62939,9 @@ geethaihoa.com
 geethoap.com
 geewedurisou.net
 gefkyqjq.adckt.tech
-geflan.com
 geforce1060.com.de
 gegenhartz.de
+gegevens-wetgeving-2025.com
 geggeewrossle.com
 geh.jp
 gehaltsrechner.de
@@ -63214,9 +62973,7 @@ gembotai.com
 gemcityhomes.com
 gemfowls.com
 gemhoney.com
-gemimilogin.webador.com
 gemini-horoscope-astrologer.business.site
-gemini-project.eu
 gemini.express
 gemini.yahoo.com
 gemini.zone
@@ -63499,7 +63256,6 @@ gesundheitszentrum-bad-waldliesborn.de
 gesundheitszentrum-bw.de
 geswarpkansan.com
 get-answers-fast.com
-get-badge-req-here.vercel.app
 get-cracked.com
 get-electrum.org
 get-files24.com
@@ -63711,11 +63467,9 @@ geumhuzzy.com
 gevmrjok.com
 gewinnen-slots-bonus.com
 gewinnspiel-sachsenhausen.de
-gewtx.weebly.com
 gez.io
 gezelimmi.com
 gezinti.com
-gezondheids-beauty.nl
 gf.topservice-masters.com
 gf108.com
 gf54tgfzxz.appspot.com
@@ -63737,6 +63491,7 @@ gfkgeeoqgz.wen.ru
 gfknoux.localto.net
 gfkpbebwqwhlginna.org
 gfn1.ugap.fr
+gfnkb.top
 gfnormal00an.com
 gfnormal01ae.com
 gfnormal01aj.com
@@ -63762,7 +63517,6 @@ gg-connect.de
 gg-net.cc
 gg.0598yu.com
 gg.7976.top
-gg.aass654.com
 gg.blueidea.com
 gg.btnk024.com
 gg.caixin.com
@@ -63782,9 +63536,7 @@ gg.taoseyy.cn
 gg.txtbbs.com
 gg.uuu9.com
 gg.vidown.cn
-gg.vvbb321.com
 gg.warmanmamelon.com
-gg.xxcc789.com
 gg1.jc001.cn
 gg1.yszyz.com
 gg146.bet
@@ -63806,7 +63558,6 @@ ggcake.tindersplus.net
 ggchzzz.com
 ggcode.2345.com
 ggcorp.me
-ggdhjssu7.wixsite.com
 ggdm1.nhaidu.net
 ggetsurv4youu.com
 ggetsurveey.com
@@ -63821,7 +63572,6 @@ ggiergionard50.top
 ggjqqmwwolbmhkr.com
 ggjs.d17.cc
 ggjybcyhudxgxgnpiy.net
-ggkk.xyz
 gglnntqufw.life
 gglx.me
 ggmail.com
@@ -63879,7 +63629,6 @@ ghghgf.51dongshi.com
 ghghgf.xuexiwa.com
 ghgsfr.b-cdn.net
 ghjdfytuuyj.duckdns.org
-ghjnbvcrvbn.weeblysite.com
 ghjx8w.postal.gameplansession.com
 ghl8.com
 ghlyrecomemurg.com
@@ -63907,7 +63656,6 @@ ghoudsoldes.fr
 ghprofileconsult.com
 ghreha.top
 ghribi.com
-ghshbv.wixsite.com
 ghsheukwasa.com
 ghsheukwasana.info
 ghtk247.com
@@ -63954,6 +63702,7 @@ giboxdwwevu.com
 gibthub.com
 gichaisseexy.net
 giddycoat.com
+gideibawetreu-5278.vercel.app
 gidthub.com
 gifables.com
 gifastcompanycom.112.2o7.net
@@ -64140,6 +63889,7 @@ give-see.com
 giveaway-binance.com
 giveaway-faceb00k.blogspot.com
 giveawaycafe.com
+giveawayseason.com
 giveawaysusa.com
 givebacks25.fun
 givebik.tripod.com
@@ -64225,7 +63975,6 @@ gladglen.com
 gladiadormalas.com.br
 gladius.ws
 gladsince.com
-gladvin26.github.io
 gladysway.com
 glaghoowingauck.net
 glaickoxaksy.com
@@ -64613,6 +64362,7 @@ gmointernet.112.2o7.net
 gmossp-sp.jp
 gmoutlet.fr
 gmpharmaceuticals.in
+gmso12251oka.top
 gmtdpuo.cc
 gmter.com
 gmummy.com
@@ -64695,6 +64445,7 @@ go.clicknplay.to
 go.coralreefs.xyz
 go.coralsands.xyz
 go.epn.bz
+go.ero-vtuber.com
 go.ezodn.com
 go.ezoic.net
 go.fastspot.io
@@ -64974,6 +64725,7 @@ gollarpulsus.com
 golmail.info
 gologle.fr
 golosavk.vipshop.ru
+goloses.net
 golosovanie.info
 golsaiksi.net
 golsoe033.info
@@ -65764,7 +65516,6 @@ graveuniversalapologies.com
 gravitation.info
 gravitron.chron.com
 gravity.com
-gravitygive.com
 gravitykick.com
 gravvxa.cn
 gravygirls.com
@@ -66333,7 +66084,6 @@ gserv.cneteu.net
 gsfaggsagsgasfgg.x10.mx
 gsfcloud.com
 gsgir.122.2o7.net
-gsgsffssfdaasas.weebly.com
 gshocks.fr
 gshopuchcom.xyz
 gsi.net.vn
@@ -66357,6 +66107,7 @@ gspeaks.com
 gspo.jp
 gsport.com
 gspro.hit.gemius.pl
+gsrgjsmymkwt.com
 gsrhrservices.com
 gsrl.in
 gssdsj.com
@@ -66593,6 +66344,7 @@ guide.borden-carleton.ca
 guidecent.com
 guidenew.com
 guidenow.ru
+guideplus.lionfree.net
 guidescience.com
 guidex.eu
 guidonsfeeing.com
@@ -66610,7 +66362,6 @@ guineapig.espressive.com
 guineapig.magnatkaffehus.no
 guineapig.themenaffin.de
 guineashock.top
-guinnipraffaela36904-dinimos352470-manine30624.pages.dev
 guitar-love.ru
 guitarfelicityraw.com
 guitarjavgg124.fun
@@ -66635,7 +66386,6 @@ gullyending.com
 gulsyangtao.guru
 gumanews.com
 gumblar.cn
-gumbolersgthb.com
 gumcongest.com
 gumdiseasepreventionhelp.com
 gumgum.com
@@ -67028,6 +66778,7 @@ h24.news
 h2875518.stratoserver.net
 h2klkgn348b4.live
 h2kno.com
+h3597.sihow55790.workers.dev
 h41s.com
 h49wpzxosa.appspot.com
 h4i4rjwo06kowj4aqd19.maherstcottage.com.au
@@ -67247,7 +66998,6 @@ haggingmasha.top
 hagglezon.fr
 haghalra.com
 haglance.com
-haglofsfrance.fr
 haglofspascher.fr
 hagnutrient.com
 haha-git-main-grimmhubmoments-projects.vercel.app
@@ -67269,6 +67019,7 @@ hailstonescramblegardening.com
 hailtighterwonderfully.com
 haimagla.com
 haimanee.net
+haimasher.xyz
 hainiwho.net
 hainoruz.com
 haiqinrubber.com
@@ -67389,7 +67140,6 @@ handcuffglare.com
 handfulnobodytextbook.com
 handfulsobcollections.com
 handgripvegetationhols.com
-handipadel.com
 handkerchiefpeeks.com
 handkerchiefpersonnel.com
 handkerchiefstapleconsole.com
@@ -67406,6 +67156,7 @@ handsomeyam.com
 handtub.com
 handwritingdigestion.com
 handy-tab.com
+handy-tool.nl
 handycam.alicdn.com
 handyfireman.com
 handyincrease.com
@@ -67573,7 +67324,6 @@ harry.interiorgalleries.com
 harrydough.com
 harryhb.com
 harrymercurydynasty.com
-harsh7editor.github.io
 harshita-india.com
 harshlygiraffediscover.com
 harshplant.com
@@ -67840,6 +67590,7 @@ hcdds.yt
 hcgbhq.com
 hcgon.com
 hchrmain.112.2o7.net
+hciorg.ddns.net
 hcliips.com
 hclogistics.co.za
 hcloksphar.world
@@ -67881,7 +67632,6 @@ hdds.yt
 hdfilmproduction.com
 hdgzta.com
 hdherbs.ws
-hdiscord.com
 hdizifilm.com
 hdj.baidu.com
 hdlclub2.cc
@@ -67984,6 +67734,7 @@ healthcaredegreespot.com
 healthcarelife.info
 healthcaresavingspro.com
 healthcaret.com
+healthcenter.show
 healthdataknowledge.com
 healthdirect.ie
 healthfailed.com
@@ -68222,16 +67973,19 @@ helmpa.xyz
 helmregardiso.com
 helmtechnologies.com
 heloisessa.com
+help-8seh.vercel.app
 help-authorizedlnstagram.onrender.com
 help-bitdefender.com
 help-desk-number.com
 help-email.com
 help-eset.com
+help-fy5p.vercel.app
 help-line.me
 help-lnstagram.com
 help-lnstagramforms.epizy.com
 help-media.com
 help-netflix.fr
+help-rkyk.vercel.app
 help-support1.at.ua
 help-trendmicro.com
 help-weblnstagram.duckdns.org
@@ -68241,7 +67995,6 @@ help.indianmedicalsupplies.co.in
 help.k12insight.org
 help.laurita.biz
 help.mah3.com
-help.metaauth.click
 help.premium-x-notes.com
 help.record-x-center.com
 help.saiyou.me
@@ -68302,6 +68055,7 @@ hempower.shop
 hemsbyholidays.co.uk
 hemsworth.co.ke
 hemtatch.net
+hemyn.site
 henanlinyu.cn
 henanzhulongjx.com
 henbot.com
@@ -68511,6 +68265,7 @@ hfdo.de
 hfeoveukrn.info
 hffxc.com
 hfhppxseee.com
+hfisngksng.com
 hfiwcuodr.com
 hfjmvr.xyz
 hfjuki.com
@@ -68771,6 +68526,7 @@ himselfthoughtless.com
 himselve.info
 himsly.fr
 himunpracticalwh.info
+hinaj35231.wixsite.com
 hinaprecent.info
 hindaleryani.com
 hindervoting.com
@@ -68958,6 +68714,7 @@ hjjshv.xyz
 hjkhxfh.360doc.cn
 hjkld.yt
 hjklq.com
+hjkud3.pages.dev
 hjosab.postal.gameplansession.com
 hjr-wq.com
 hjrcjz.xyz
@@ -68983,6 +68740,7 @@ hkccg.s3.ap-southeast-1.amazonaws.com
 hkdm688.com
 hkfg.net
 hkfootage.com
+hkg.yehangcheng76.workers.dev
 hkhfjd.godaddysites.com
 hkilops.com
 hkitforce.com
@@ -69059,3 +68817,114 @@ hnfxty.cn
 hnhbx8.cn
 hnhgw.cn
 hnixr.com
+hnjcdjx.com
+hnjgdl.geps.glodon.com
+hnjls.com.cn
+hnl.ijgocb.cn
+hnliyin.com
+hnltcw.com
+hnmrw.net
+hnnuange.com
+hnol.net
+hnps.eu
+hnrgmc.com
+hnrjign.cn
+hnruisheng.cn
+hnskorea.co.kr
+hnssyhbkj.com
+hnsykly.cn
+hntengyi.com
+hntiantai.cn
+hntldgk.com
+hntngln1.com
+hnwjlhg.cn
+hnxahz.com
+hnxbls.cn
+hnxhksg.com
+hnyny.com
+hnzls8.cn
+hnzpjx.com
+hnzt56.com
+hnzyzhy.cn
+ho22t3.postal.gameplansession.com
+hoa44trk.com
+hoadaphagoar.net
+hoadavouthob.com
+hoaglaustoad.com
+hoakhoithanhlichmamnon9999.weebly.com
+hoaleenech.com
+hoamgt.com
+hoanggia.tech
+hoanghungthinhland.com
+hoanoola.net
+hoaphoath.com
+hoardjan.com
+hoardpastimegolf.com
+hoarsecoupons.top
+hoatebilaterdea.info
+hoatuoidanghoa.com
+hoatuoifly.com
+hoaxbasesalad.com
+hoaxcookingdemocratic.com
+hoaxresearchingathletics.com
+hoaxviableadherence.com
+hoazathoaps.com
+hobbiesshame.online
+hobbleobey.com
+hobbytotaalservice.nl
+hobbyworkshop.com
+hobidoch.store
+hocbongtienganh.com
+hocgeese.com
+hochtief-group.ru.com
+hochzeitsgedichte.de
+hockeycomposure.com
+hockeyhavoc.com
+hockeysacredbond.com
+hockeysubnantais.free.fr
+hockicmaidso.com
+hocomserv.com
+hocsinhthanhlich.com
+hocsinhthanhlich2022.weebly.com
+hoct.cc
+hoctiengphaponline.info
+hoctmail.com
+hoctor-pharity.xyz
+hocvientaichinh.com.vn
+hoddlegamey.com
+hodllane.com
+hodor-collect.arabam.com
+hoealec.com
+hoefbakery.com
+hoegutvie.com
+hoelscher1.com
+hoerbird.net
+hof-sommerberg.de
+hofbakery.com
+hoffchaussuresorigine.fr
+hogan-fr.fr
+hogan-paris.fr
+hoganoutletfrance.fr
+hogansecret.com
+hoggetforfend.com
+hoghideelds.top
+hoghooghonline.legal
+hoglfrance.fr
+hoglinsu.com
+hognaivee.com
+hohamsie.net
+hohe-berg-bayern.de
+hoho.mobi
+hoholikik.club
+hohosearch.com
+hohpdld.cn
+hohshops.com
+hoickedfoamer.top
+hoickpinyons.com
+hoicksfq.xyz
+hoidulich.com
+hoilop.com
+hoinhiepanhbg.blogspot.com
+hoiwcg.cn
+hojasdecalculo.com
+hojokk.com
